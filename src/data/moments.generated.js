@@ -7224,6 +7224,1501 @@ export const moments = [
       }
     ],
     "episodeTitle": ".exe"
+  },
+  {
+    "id": "s05e04-dead-or-alive",
+    "season": 5,
+    "episode": 4,
+    "start": "6:19",
+    "end": "7:48",
+    "verified": true,
+    "priority": 2,
+    "title": "死的还是活的",
+    "description": "她把药含在嘴里没咽，然后请医生玩个游戏。",
+    "quote": [
+      {
+        "who": "Doctor",
+        "line": "Even if Shaw becomes a team player after her next visit to the OR, her bladder issues will be the least of her problems. Surgery waits for no man."
+      },
+      {
+        "who": "Shaw",
+        "line": "Have a seat."
+      },
+      {
+        "who": "Doctor",
+        "line": "My men will be waiting as soon as the door opens."
+      },
+      {
+        "who": "Shaw",
+        "line": "I'm counting on it."
+      },
+      {
+        "who": "Shaw",
+        "line": "The average person swallows 2,000 times a day. Now, it's a good thing you're not average, 'cause this much BZD could stop your heart. Now let's play a game. Dead or alive?"
+      },
+      {
+        "who": "Shaw",
+        "line": "Alive. Well, what do you know? Now that's what I call being a team player."
+      }
+    ],
+    "characters": [
+      "Shaw"
+    ],
+    "tags": [
+      "capture",
+      "simulation"
+    ],
+    "aliases": [
+      "死的还是活的",
+      "含着药",
+      "装配合",
+      "越狱",
+      "dead or alive",
+      "team player",
+      "BZD",
+      "2000 times a day"
+    ],
+    "episodeTitle": "6,741"
+  },
+  {
+    "id": "s05e04-burn-me-with-an-iron",
+    "season": 5,
+    "episode": 4,
+    "start": "14:59",
+    "end": "15:45",
+    "verified": true,
+    "priority": 1,
+    "title": "你拿电熨斗招呼我那次",
+    "description": "地铁上开颅取芯片。Root 挑这个时候叙旧。",
+    "quote": [
+      {
+        "who": "Shaw",
+        "line": "We're on a moving subway car that's probably caked in rat crap."
+      },
+      {
+        "who": "Root",
+        "line": "Fugitives can't be choosers."
+      },
+      {
+        "who": "Shaw",
+        "line": "Brain surgery, medieval-style. Awesome."
+      },
+      {
+        "who": "Root",
+        "line": "Remember how we first met? You tried to burn me with an iron. Fun, right?"
+      },
+      {
+        "who": "Shaw",
+        "line": "Mm-hmm."
+      },
+      {
+        "who": "Root",
+        "line": "Maybe you'll like this too. But it's probably gonna suck."
+      },
+      {
+        "who": "Shaw",
+        "line": "Just get this damn thing out of me."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Shaw",
+      "Finch"
+    ],
+    "tags": [
+      "simulation",
+      "banter",
+      "first-meeting"
+    ],
+    "aliases": [
+      "电熨斗",
+      "初次见面",
+      "开颅",
+      "地铁上做手术",
+      "中世纪风格",
+      "burn me with an iron",
+      "how we first met",
+      "brain surgery",
+      "fugitives can't be choosers"
+    ],
+    "related": [
+      {
+        "id": "s02e16-first-meeting",
+        "note": "两季之后她还拿这事开玩笑",
+        "back": "后来 Root 一直拿这次见面开玩笑"
+      }
+    ],
+    "episodeTitle": "6,741"
+  },
+  {
+    "id": "s05e04-wanna-move-in",
+    "season": 5,
+    "episode": 4,
+    "start": "15:51",
+    "end": "17:10",
+    "verified": true,
+    "priority": 1,
+    "title": "要不要搬进来",
+    "description": "在 Root 家醒过来。Bear 也在。都是模拟。",
+    "quote": [
+      {
+        "who": "Finch",
+        "line": "We shouldn't throw caution to the wind. Remember Martine told us Shaw had been turned."
+      },
+      {
+        "who": "Root",
+        "line": "She was lying. Shaw's one of us."
+      },
+      {
+        "who": "Reese",
+        "line": "We don't know what they did to her."
+      },
+      {
+        "who": "Shaw",
+        "line": "Where the hell did you take me?"
+      },
+      {
+        "who": "Root",
+        "line": "You're at my place, sweetie."
+      },
+      {
+        "who": "Shaw",
+        "line": "Nice digs."
+      },
+      {
+        "who": "Root",
+        "line": "Wanna move in?"
+      },
+      {
+        "who": "Root",
+        "line": "Someone else is excited you're back. Woman's best friend."
+      },
+      {
+        "who": "Shaw",
+        "line": "Bear. Oh, it's damn good to see you too, buddy."
+      },
+      {
+        "who": "Shaw",
+        "line": "The chip?"
+      },
+      {
+        "who": "Root",
+        "line": "Removed and disabled. They can't hurt you anymore."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Shaw",
+      "Finch",
+      "Reese"
+    ],
+    "tags": [
+      "simulation",
+      "flirting",
+      "reunion",
+      "everyday"
+    ],
+    "aliases": [
+      "搬进来",
+      "住我这儿",
+      "房子不错",
+      "Bear",
+      "她没被策反",
+      "她是我们的人",
+      "wanna move in",
+      "nice digs",
+      "you're at my place",
+      "Shaw's one of us"
+    ],
+    "episodeTitle": "6,741"
+  },
+  {
+    "id": "s05e04-did-you-look-for-me",
+    "season": 5,
+    "episode": 4,
+    "start": "17:15",
+    "end": "18:47",
+    "verified": true,
+    "priority": 1,
+    "title": "你有没有找过我",
+    "description": "Finch 说找过。Shaw 说找得不够。都是模拟。",
+    "quote": [
+      {
+        "who": "Shaw",
+        "line": "Yeah, 'cause actions aren't really your thing, huh? Did you even look for me?"
+      },
+      {
+        "who": "Finch",
+        "line": "Of course we did."
+      },
+      {
+        "who": "Shaw",
+        "line": "Not hard enough."
+      },
+      {
+        "who": "Finch",
+        "line": "We should go, John. I trust you'll recover smoothly under Ms. Groves' care."
+      },
+      {
+        "who": "Root",
+        "line": "I never stopped looking for you."
+      },
+      {
+        "who": "Shaw",
+        "line": "It's kind of cold in here."
+      },
+      {
+        "who": "Root",
+        "line": "You're just, uh, still recovering from surgery. You should get under the covers."
+      },
+      {
+        "who": "Shaw",
+        "line": "Kinda left me hanging at the stock exchange. Of course, you did save my life. Maybe there's some way I can repay the favor?"
+      },
+      {
+        "who": "Root",
+        "line": "I'm not really in the right mindset for any of this."
+      },
+      {
+        "who": "Root",
+        "line": "You should get some rest. Had a rough couple of days."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Shaw",
+      "Finch"
+    ],
+    "tags": [
+      "simulation",
+      "flirting",
+      "searching",
+      "emotional"
+    ],
+    "aliases": [
+      "找过我吗",
+      "找得不够",
+      "我一天都没停过",
+      "有点冷",
+      "报答你",
+      "did you even look for me",
+      "never stopped looking",
+      "not hard enough",
+      "repay the favor"
+    ],
+    "related": [
+      {
+        "id": "s05e04-i-gave-up-on-you",
+        "note": "这一问她当场答了「一直在找」，后面才承认不是",
+        "back": "她后来承认的，就是这里那句「我一天都没停过」"
+      }
+    ],
+    "episodeTitle": "6,741"
+  },
+  {
+    "id": "s05e04-no-safe-place",
+    "season": 5,
+    "episode": 4,
+    "start": "19:09",
+    "end": "21:46",
+    "verified": true,
+    "priority": 1,
+    "title": "哪儿也没去",
+    "description": "身上的疤，和一句她当场说了谎的话。",
+    "quote": [
+      {
+        "who": "Shaw",
+        "line": "You know, I'm not tired."
+      },
+      {
+        "who": "Shaw",
+        "line": "It's hard to imagine both of us... making it out of this in one piece."
+      },
+      {
+        "line": "Be a hell of a way to go."
+      },
+      {
+        "who": "Shaw",
+        "line": "That didn't suck."
+      },
+      {
+        "who": "Root",
+        "line": "Oh, there was plenty of sucking."
+      },
+      {
+        "who": "Root",
+        "line": "I already wanted to tear Samaritan apart, turn it into an Atari. That's too nice. Scarred my beautiful girl. Maybe a Casio."
+      },
+      {
+        "who": "Shaw",
+        "line": "All the scars are from before when I worked relevant numbers with the ISA. Samaritan's torture was more psychological."
+      },
+      {
+        "who": "Root",
+        "line": "And you never broke."
+      },
+      {
+        "who": "Shaw",
+        "line": "When I was training with the ISA, they taught us if we were ever tortured to take our mind somewhere else, someplace safe."
+      },
+      {
+        "who": "Root",
+        "line": "Where did you go?"
+      },
+      {
+        "who": "Shaw",
+        "line": "Nowhere. The training was bull. There was no safe place. No escape."
+      },
+      {
+        "who": "Root",
+        "line": "Hey... stay here with me."
+      },
+      {
+        "who": "Shaw",
+        "line": "Well, I couldn't stand you when we first met. You wouldn't stop bugging me."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Shaw"
+    ],
+    "tags": [
+      "simulation",
+      "flirting",
+      "emotional",
+      "major-moment",
+      "backstory"
+    ],
+    "aliases": [
+      "疤",
+      "疤痕",
+      "你去了哪儿",
+      "哪儿也没去",
+      "没有安全的地方",
+      "留下来陪我",
+      "Atari",
+      "Casio",
+      "no safe place",
+      "where did you go",
+      "stay here with me",
+      "never broke"
+    ],
+    "episodeTitle": "6,741"
+  },
+  {
+    "id": "s05e04-we-broke-you",
+    "season": 5,
+    "episode": 4,
+    "start": "33:32",
+    "end": "34:46",
+    "verified": true,
+    "priority": 1,
+    "title": "你不是逃出来的，是我们放你走的",
+    "description": "Greer 摊牌：越狱、追杀、回家，全是安排好的。",
+    "quote": [
+      {
+        "who": "Greer",
+        "line": "I appreciate your commitment to authenticity, my dear Sameen, but, uh, it's time to call off this charade, don't you think?"
+      },
+      {
+        "who": "Greer",
+        "line": "You've almost completed your mission. Everything is proceeding exactly as we planned."
+      },
+      {
+        "who": "Shaw",
+        "line": "We didn't plan anything."
+      },
+      {
+        "who": "Greer",
+        "line": "Didn't we? It was your idea to plant the USB in my arm. Ingenious, really. It is a kill switch, only not the kind your friends are expecting."
+      },
+      {
+        "who": "Shaw",
+        "line": "You lying bastard. You planted another chip."
+      },
+      {
+        "who": "Greer",
+        "line": "We didn't need a chip. We broke you months ago."
+      },
+      {
+        "who": "Shaw",
+        "line": "No. I escaped."
+      },
+      {
+        "who": "Greer",
+        "line": "Because we let you."
+      },
+      {
+        "who": "Greer",
+        "line": "We're already in your head. You couldn't hurt me even if you wanted to. But you will have blood on your hands when you murder all of your friends."
+      }
+    ],
+    "characters": [
+      "Shaw",
+      "Greer"
+    ],
+    "tags": [
+      "simulation",
+      "capture",
+      "antagonism",
+      "major-moment"
+    ],
+    "aliases": [
+      "我们放你走的",
+      "几个月前就把你弄垮了",
+      "我们已经在你脑子里了",
+      "Greer",
+      "U 盘",
+      "we broke you",
+      "because we let you",
+      "already in your head",
+      "kill switch"
+    ],
+    "episodeTitle": "6,741"
+  },
+  {
+    "id": "s05e04-belong-together",
+    "season": 5,
+    "episode": 4,
+    "start": "39:34",
+    "end": "41:33",
+    "verified": true,
+    "priority": 1,
+    "title": "你就是我的安全屋",
+    "description": "两小时前她说没有安全的地方。这里她说了实话。",
+    "quote": [
+      {
+        "who": "Root",
+        "line": "Where are you going? We need to get back to Harold and the Machine."
+      },
+      {
+        "who": "Shaw",
+        "line": "I can't do this anymore. I don't know who's controlling this."
+      },
+      {
+        "who": "Root",
+        "line": "Controlling what, sweetie?"
+      },
+      {
+        "who": "Shaw",
+        "line": "Me. I shot Reese. And now I'm gonna kill you too."
+      },
+      {
+        "who": "Root",
+        "line": "So why haven't you?"
+      },
+      {
+        "who": "Root",
+        "line": "Because somewhere... in your sociopathic heart, you know we belong together."
+      },
+      {
+        "who": "Root",
+        "line": "We'll work through this, but first... I need to get you to safety."
+      },
+      {
+        "who": "Shaw",
+        "line": "But nothing's safe. Do you know where we are? What they did to me? The torture? I told you I couldn't escape it."
+      },
+      {
+        "who": "Shaw",
+        "line": "But when things got to be too bad... there was one place I would go to in my mind. Here... with you. You were my safe place."
+      },
+      {
+        "who": "Shaw",
+        "line": "But not anymore, and I can't control myself. So the only thing I can control is this."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Shaw"
+    ],
+    "tags": [
+      "simulation",
+      "emotional",
+      "major-moment",
+      "loss",
+      "death"
+    ],
+    "aliases": [
+      "我们是一对",
+      "我们本来就该在一起",
+      "你就是我的安全屋",
+      "安全的地方",
+      "反社会的心",
+      "belong together",
+      "sociopathic heart",
+      "you were my safe place",
+      "why haven't you"
+    ],
+    "related": [
+      {
+        "id": "s05e04-no-safe-place",
+        "note": "她刚说过「哪儿也没去，没有安全的地方」",
+        "back": "这句是谎话，两小时后她自己拆穿了"
+      }
+    ],
+    "episodeTitle": "6,741"
+  },
+  {
+    "id": "s05e04-simulation-6742",
+    "season": 5,
+    "episode": 4,
+    "start": "42:27",
+    "end": "43:10",
+    "verified": true,
+    "priority": 1,
+    "title": "第 6742 次",
+    "description": "前面看的那一整集，是第 6741 次。",
+    "quote": [
+      {
+        "line": "Sir, she blew her brains out again. And she didn't lead us any closer to the Machine's location."
+      },
+      {
+        "who": "Greer",
+        "line": "It appears we still have a few wrinkles to iron out."
+      },
+      {
+        "line": "Good news-- she waited an extra hour before she shot you."
+      },
+      {
+        "line": "How uplifting."
+      },
+      {
+        "line": "Shall we give it another go, sir?"
+      },
+      {
+        "who": "Greer",
+        "line": "Yes. Start the simulation again."
+      },
+      {
+        "line": "Simulation 6,742."
+      },
+      {
+        "who": "Doctor",
+        "line": "How are you doing, Sameen?"
+      },
+      {
+        "line": "We have all the time in the world, my dear Sameen."
+      }
+    ],
+    "characters": [
+      "Shaw",
+      "Greer"
+    ],
+    "tags": [
+      "simulation",
+      "capture",
+      "major-moment",
+      "loss"
+    ],
+    "aliases": [
+      "6741",
+      "6,741",
+      "6742",
+      "第六千七百四十二次",
+      "重来一次",
+      "有的是时间",
+      "simulation 6742",
+      "start the simulation again",
+      "all the time in the world"
+    ],
+    "related": [
+      {
+        "id": "s05e04-morning-after",
+        "note": "那个早晨也算在这个数字里",
+        "back": "这一整集是这个数字里的一次"
+      }
+    ],
+    "episodeTitle": "6,741"
+  },
+  {
+    "id": "s04e12-no-one-knows-her-name",
+    "season": 4,
+    "episode": 12,
+    "start": "29:49",
+    "end": "30:48",
+    "verified": true,
+    "priority": 1,
+    "title": "没人会知道她的名字",
+    "description": "Finch 冲 Control 说这段。Root 听出他已经放弃了。",
+    "quote": [
+      {
+        "who": "Finch",
+        "line": "Pardon their aggression. They're trying to save the life of a dear friend."
+      },
+      {
+        "who": "Finch",
+        "line": "Sameen risked everything at the stock exchange, not just to save our lives, but to pull the whole world back from the brink of disaster, all with the knowledge that no one would ever even know her name."
+      },
+      {
+        "who": "Finch",
+        "line": "Everybody here, all of us, spend our days saving the lives of people we don't even know. Each loss is unbearable, but when it's someone you know..."
+      },
+      {
+        "who": "Root",
+        "line": "You think she's dead. You think Shaw is dead, and you don't have the guts to tell them."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch",
+      "Shaw",
+      "Control"
+    ],
+    "tags": [
+      "searching",
+      "loss",
+      "emotional",
+      "major-moment"
+    ],
+    "aliases": [
+      "没人知道她的名字",
+      "证券交易所",
+      "你觉得她死了",
+      "你不敢说",
+      "no one would ever know her name",
+      "stock exchange",
+      "you think she's dead"
+    ],
+    "episodeTitle": "Control-Alt-Delete"
+  },
+  {
+    "id": "s04e13-heads-wont-roll-yet",
+    "season": 4,
+    "episode": 13,
+    "start": "16:18",
+    "end": "17:00",
+    "verified": true,
+    "priority": 2,
+    "title": "先别急着让人掉脑袋",
+    "description": "为什么朝她脑袋开枪，又把她救回来？",
+    "quote": [
+      {
+        "who": "Finch",
+        "line": "I'm so sorry, John and Samantha."
+      },
+      {
+        "who": "Reese",
+        "line": "It's not over yet. We'll find her."
+      },
+      {
+        "who": "Root",
+        "line": "Why would the agent shoot Sameen in the head only to try to patch her up?"
+      },
+      {
+        "who": "Finch",
+        "line": "Our enemy has strange methods. They found a use for her."
+      },
+      {
+        "who": "Finch",
+        "line": "But please expedite a blood sample for analysis... and verify that it is Sameen's before any heads roll."
+      },
+      {
+        "who": "Root",
+        "line": "Heads won't roll yet. The people who hurt her deserve special attention."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch",
+      "Reese",
+      "Shaw"
+    ],
+    "tags": [
+      "searching",
+      "loss"
+    ],
+    "aliases": [
+      "掉脑袋",
+      "朝她头上开枪",
+      "验血",
+      "特别关照",
+      "heads won't roll",
+      "shoot Sameen in the head",
+      "special attention"
+    ],
+    "episodeTitle": "M.I.A."
+  },
+  {
+    "id": "s04e13-only-one-person",
+    "season": 4,
+    "episode": 13,
+    "start": "24:10",
+    "end": "24:46",
+    "verified": true,
+    "priority": 2,
+    "title": "我现在只关心一个人",
+    "description": "整座镇子出了事，Root 一句话把话题拽回来。",
+    "quote": [
+      {
+        "who": "Root",
+        "line": "Right now I only care about one person."
+      },
+      {
+        "who": "Root",
+        "line": "I'd introduce myself but you already know us."
+      },
+      {
+        "who": "Root",
+        "line": "What did you do with Sameen?"
+      },
+      {
+        "line": "Who?"
+      },
+      {
+        "who": "Root",
+        "line": "You know... little firecracker, brown hair."
+      },
+      {
+        "line": "I don't know who you mean."
+      },
+      {
+        "who": "Root",
+        "line": "I hope you've got a good physical therapist in town."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Shaw"
+    ],
+    "tags": [
+      "searching",
+      "loss",
+      "antagonism"
+    ],
+    "aliases": [
+      "只关心一个人",
+      "小炮仗",
+      "棕头发",
+      "理疗师",
+      "only care about one person",
+      "little firecracker",
+      "physical therapist"
+    ],
+    "episodeTitle": "M.I.A."
+  },
+  {
+    "id": "s04e13-please-help-us",
+    "season": 4,
+    "episode": 13,
+    "start": "39:48",
+    "end": "40:50",
+    "verified": true,
+    "priority": 1,
+    "title": "求你告诉我她是死是活",
+    "description": "机器知道，但不肯说。Root 只好开口求她。",
+    "quote": [
+      {
+        "who": "Root",
+        "line": "She knows. The Machine must know where Shaw is and if she's alive but... she won't tell me."
+      },
+      {
+        "who": "Finch",
+        "line": "Miss Groves... our only lead brought us to the brink of disaster. You and John came perilously close to being discovered."
+      },
+      {
+        "who": "Finch",
+        "line": "I care about her deeply. But if only for our own sake, we have to let her go."
+      },
+      {
+        "who": "Root",
+        "line": "You gave up on her days ago. You really think she's dead."
+      },
+      {
+        "who": "Finch",
+        "line": "I wanna hold out hope. But hope is painful. We may never find her."
+      },
+      {
+        "who": "Root",
+        "line": "We need an answer. I need an answer if Sameen is alive or if she's dead. Please help us. Please."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch",
+      "Shaw",
+      "The Machine"
+    ],
+    "tags": [
+      "searching",
+      "loss",
+      "emotional",
+      "the-machine",
+      "major-moment"
+    ],
+    "aliases": [
+      "求你",
+      "她是死是活",
+      "希望是痛苦的",
+      "你几天前就放弃了",
+      "机器不肯说",
+      "please help us",
+      "hope is painful",
+      "you gave up on her",
+      "she won't tell me"
+    ],
+    "related": [
+      {
+        "id": "s05e04-i-gave-up-on-you",
+        "note": "一年后她说自己放弃过——但这一夜她在求机器",
+        "back": "她说自己放弃过。可这一夜她在求机器给个答案"
+      }
+    ],
+    "episodeTitle": "M.I.A."
+  },
+  {
+    "id": "s05e04-not-ready-to-lose-you",
+    "season": 5,
+    "episode": 4,
+    "start": "37:09",
+    "end": "37:56",
+    "verified": true,
+    "priority": 1,
+    "title": "我还没准备好再失去你一次",
+    "description": "Reese 死了，Shaw 一个人在那边。都是模拟。",
+    "quote": [
+      {
+        "who": "Finch",
+        "line": "John, Sameen, are you all right? What's going on?"
+      },
+      {
+        "who": "Shaw",
+        "line": "I don't know what happened. Samaritan ops, they came out of nowhere. They got him. John's dead."
+      },
+      {
+        "who": "Finch",
+        "line": "No, this can't happen!"
+      },
+      {
+        "who": "Root",
+        "line": "Shaw, you have to get out of there. I'll come find you, bring you back."
+      },
+      {
+        "who": "Shaw",
+        "line": "You can't. You're hurt."
+      },
+      {
+        "who": "Root",
+        "line": "I am not ready to lose you again, Sameen. Whatever happened, we'll fix it. Just stay alive."
+      },
+      {
+        "who": "Shaw",
+        "line": "Don't. No, please don't."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Shaw",
+      "Finch"
+    ],
+    "tags": [
+      "simulation",
+      "emotional",
+      "major-moment",
+      "loss"
+    ],
+    "aliases": [
+      "再失去你一次",
+      "还没准备好",
+      "活下去就行",
+      "我去找你",
+      "not ready to lose you again",
+      "just stay alive",
+      "I'll come find you"
+    ],
+    "related": [
+      {
+        "id": "s05e04-belong-together",
+        "note": "她说完这句，Shaw 就走向了另一条路",
+        "back": "前一场她刚说过「我还没准备好再失去你一次」"
+      }
+    ],
+    "episodeTitle": "6,741"
+  },
+  {
+    "id": "s05e04-shaws-not-the-enemy",
+    "season": 5,
+    "episode": 4,
+    "start": "24:24",
+    "end": "25:35",
+    "verified": true,
+    "priority": 2,
+    "title": "你们居然不信我",
+    "description": "芯片是假的。那不对劲的就是她本人。都是模拟。",
+    "quote": [
+      {
+        "who": "Reese",
+        "line": "Finch finished analyzing the chip. It's a placebo. If there's anything wrong with Shaw, it's not the chip."
+      },
+      {
+        "who": "Root",
+        "line": "Is she okay?"
+      },
+      {
+        "who": "Reese",
+        "line": "She's... behaving strangely. We need to figure out what's going on with her. If she's turned."
+      },
+      {
+        "who": "Root",
+        "line": "Shaw's not the enemy. You have no idea what Samaritan put her through."
+      },
+      {
+        "who": "Reese",
+        "line": "Or how it's changed her?"
+      },
+      {
+        "who": "Root",
+        "line": "I won't hurt her. Neither will you."
+      },
+      {
+        "who": "Shaw",
+        "line": "So I don't get it. You guys think that I'm a double agent, or I'm a human bomb about to detonate? John's a professional dick, but I can't believe that you don't trust me. Did you bug me?"
+      },
+      {
+        "who": "Root",
+        "line": "I know you have been through things that we can't imagine, but... you don't have to be scared."
+      },
+      {
+        "who": "Shaw",
+        "line": "Scared? This has to end. Now."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Shaw",
+      "Reese"
+    ],
+    "tags": [
+      "simulation",
+      "emotional",
+      "antagonism"
+    ],
+    "aliases": [
+      "不信我",
+      "安慰剂",
+      "你们给我装了窃听器",
+      "她不是敌人",
+      "双面间谍",
+      "Shaw's not the enemy",
+      "placebo",
+      "did you bug me",
+      "human bomb"
+    ],
+    "episodeTitle": "6,741"
+  },
+  {
+    "id": "s05e04-strapped-to-a-bed",
+    "season": 5,
+    "episode": 4,
+    "start": "29:05",
+    "end": "30:22",
+    "verified": true,
+    "priority": 2,
+    "title": "绑了我九个月",
+    "description": "轮到 Greer 被绑在椅子上。都是模拟。",
+    "quote": [
+      {
+        "who": "Shaw",
+        "line": "You had me strapped to a bed for nine months."
+      },
+      {
+        "who": "Greer",
+        "line": "So now you're returning the favor. It's retribution time, is it?"
+      },
+      {
+        "who": "Shaw",
+        "line": "Well, that's the one thing we operatives are good at."
+      },
+      {
+        "who": "Greer",
+        "line": "Afraid my days in MI6 are long gone."
+      },
+      {
+        "who": "Shaw",
+        "line": "Oh, but not your habits. I knew a lot of guys like you. Hell, I was you. And one of the qualities you all have in common-- you always have an out. And you built the damn thing, so you must have an off switch."
+      },
+      {
+        "who": "Greer",
+        "line": "Be a dear and wake me up when you're done asking the same question."
+      },
+      {
+        "who": "Shaw",
+        "line": "Whatever it is you're hiding, it's wedged between your radius and your ulna."
+      }
+    ],
+    "characters": [
+      "Shaw",
+      "Greer",
+      "Reese"
+    ],
+    "tags": [
+      "simulation",
+      "antagonism",
+      "capture"
+    ],
+    "aliases": [
+      "九个月",
+      "绑在床上",
+      "以牙还牙",
+      "我以前就是你",
+      "尺骨桡骨",
+      "strapped to a bed",
+      "nine months",
+      "I was you",
+      "radius and ulna"
+    ],
+    "episodeTitle": "6,741"
+  },
+  {
+    "id": "s03e05-made-by-a-ten-year-old",
+    "season": 3,
+    "episode": 5,
+    "start": "5:28",
+    "end": "7:56",
+    "verified": true,
+    "priority": 2,
+    "title": "被一个十岁小孩识破",
+    "description": "Gen 说自己在为将来当间谍做准备。她没开玩笑。",
+    "quote": [
+      {
+        "who": "Gen",
+        "line": "Can I help you?"
+      },
+      {
+        "who": "Shaw",
+        "line": "Y-you're Genrika?"
+      },
+      {
+        "who": "Gen",
+        "line": "Gen. Nobody calls me Genrika."
+      },
+      {
+        "who": "Gen",
+        "line": "My mom's in prison in Russia. I never knew my dad. I came here a few years ago to live with my grandfather. Shouldn't you guys already know this stuff?"
+      },
+      {
+        "who": "Vadim",
+        "line": "Always sneaking around, taking pictures. Crazy little girl thinks she's a spy."
+      },
+      {
+        "who": "Gen",
+        "line": "I'm just practicing for my career."
+      },
+      {
+        "who": "Shaw",
+        "line": "Career doing what?"
+      },
+      {
+        "who": "Gen",
+        "line": "International espionage."
+      },
+      {
+        "who": "Gen",
+        "line": "Why'd they send you? Agent Cross normally handles my case."
+      },
+      {
+        "who": "Shaw",
+        "line": "There is no Agent Cross."
+      },
+      {
+        "who": "Finch",
+        "line": "Perhaps, Ms. Shaw, had you been a touch more solicitous when asking her if she needed help..."
+      },
+      {
+        "who": "Shaw",
+        "line": "What? I asked, she said no. If you ask me, the kid can take care of her--"
+      },
+      {
+        "who": "Reese",
+        "line": "Shaw just got made by a ten-year-old. What kind of a weird-ass kid uses countersurveillance tactics?"
+      },
+      {
+        "who": "Reese",
+        "line": "But I think you freaked her out a little."
+      },
+      {
+        "who": "Shaw",
+        "line": "It's mutual."
+      }
+    ],
+    "characters": [
+      "Shaw",
+      "Finch",
+      "Reese",
+      "Gen"
+    ],
+    "tags": [
+      "funny",
+      "banter",
+      "origin"
+    ],
+    "aliases": [
+      "Gen",
+      "Genrika",
+      "十岁小孩",
+      "国际间谍",
+      "反侦察",
+      "没有 Cross 探员",
+      "international espionage",
+      "made by a ten-year-old",
+      "countersurveillance"
+    ],
+    "episodeTitle": "Razgovor\"\"Разговор\"[51]"
+  },
+  {
+    "id": "s03e19-high-school-hell",
+    "season": 3,
+    "episode": 19,
+    "start": "8:02",
+    "end": "8:32",
+    "verified": true,
+    "priority": 2,
+    "title": "郊区高中地狱",
+    "description": "同学会卧底。Reese 问她当年人缘怎么样。",
+    "quote": [
+      {
+        "who": "Reese",
+        "line": "Our new number is checking in."
+      },
+      {
+        "who": "Shaw",
+        "line": "I can't believe Finch and Fusco get to track Vigilance while we're stuck in suburban-high-school hell."
+      },
+      {
+        "who": "Reese",
+        "line": "What's the matter, Shaw? Weren't too popular in high school?"
+      },
+      {
+        "who": "Shaw",
+        "line": "You know, we have more important things to do than to baby-sit some loser who just wants to relive his glory days."
+      },
+      {
+        "who": "Reese",
+        "line": "Shaw, you okay? You look strange."
+      },
+      {
+        "who": "Shaw",
+        "line": "I'm fine. Just gonna bluejack this guy."
+      }
+    ],
+    "characters": [
+      "Shaw",
+      "Reese"
+    ],
+    "tags": [
+      "cover-identity",
+      "funny",
+      "banter"
+    ],
+    "aliases": [
+      "同学会",
+      "高中",
+      "人缘",
+      "郊区高中地狱",
+      "我很好",
+      "high school",
+      "reunion",
+      "not too popular",
+      "bluejack"
+    ],
+    "episodeTitle": "Most Likely To..."
+  },
+  {
+    "id": "s03e22-be-careful-shaw",
+    "season": 3,
+    "episode": 22,
+    "start": "35:34",
+    "end": "36:16",
+    "verified": true,
+    "priority": 2,
+    "title": "小心点，Shaw",
+    "description": "「我说 Finch 没有立刻的危险」——她说得有点早。",
+    "quote": [
+      {
+        "who": "Shaw",
+        "line": "Now's not a good time."
+      },
+      {
+        "who": "Root",
+        "line": "Remember when I said Finch wasn't in imminent danger? I may have been a little hasty."
+      },
+      {
+        "who": "Root",
+        "line": "In good news... I know who the fifth number belongs to. It was tucked away under several aliases, but... even MI6 can't hide from her. Mr. Greer."
+      },
+      {
+        "who": "Shaw",
+        "line": "And Greer has Finch."
+      },
+      {
+        "who": "Root",
+        "line": "You won't make it there in time."
+      },
+      {
+        "who": "Shaw",
+        "line": "Well, where's \"there,\" Root?"
+      },
+      {
+        "who": "Root",
+        "line": "Still too hard to see."
+      },
+      {
+        "who": "Shaw",
+        "line": "Then how are we supposed to find him?"
+      },
+      {
+        "who": "Root",
+        "line": "The Machine doesn't know. But Hersh does."
+      },
+      {
+        "who": "Root",
+        "line": "Be careful, Shaw."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Shaw",
+      "Finch"
+    ],
+    "tags": [
+      "comms",
+      "partnership"
+    ],
+    "aliases": [
+      "小心点",
+      "说早了",
+      "第五个号码",
+      "Greer",
+      "Hersh",
+      "be careful Shaw",
+      "a little hasty",
+      "fifth number"
+    ],
+    "episodeTitle": "A House Divided"
+  },
+  {
+    "id": "s04e21-backstage-pass",
+    "season": 4,
+    "episode": 21,
+    "start": "11:32",
+    "end": "12:20",
+    "verified": true,
+    "priority": 2,
+    "title": "我们有后台通行证",
+    "description": "去精神病院的路上，机器让她先挖把铁锹。",
+    "quote": [
+      {
+        "who": "Root",
+        "line": "Shaw's call originated from a landline somewhere inside that asylum. Steiner Psychiatric Institute. State controlled with a closed security system, which explains our little pit stop."
+      },
+      {
+        "who": "Root",
+        "line": "The Machine would never let us show up empty-handed to a rescue mission."
+      },
+      {
+        "who": "Reese",
+        "line": "Did the Machine have any thoughts about us not getting ourselves killed?"
+      },
+      {
+        "who": "Root",
+        "line": "Right now, she's pretty fixated on this shovel."
+      },
+      {
+        "who": "Reese",
+        "line": "You got a plan to get in, partner?"
+      },
+      {
+        "who": "Root",
+        "line": "Relax. We got a backstage pass."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Reese",
+      "Shaw",
+      "The Machine"
+    ],
+    "tags": [
+      "searching",
+      "the-machine",
+      "banter"
+    ],
+    "aliases": [
+      "铁锹",
+      "后台通行证",
+      "精神病院",
+      "Steiner",
+      "空手去救人",
+      "backstage pass",
+      "shovel",
+      "asylum",
+      "rescue mission"
+    ],
+    "episodeTitle": "Asylum"
+  },
+  {
+    "id": "s05e11-this-simulation-sucks",
+    "season": 5,
+    "episode": 11,
+    "start": "6:33",
+    "end": "7:48",
+    "verified": true,
+    "priority": 1,
+    "title": "这个模拟太烂了",
+    "description": "Root 死后，她还是分不清哪一层是真的。",
+    "quote": [
+      {
+        "who": "Shaw",
+        "line": "What do you want?"
+      },
+      {
+        "who": "Reese",
+        "line": "Just checking in."
+      },
+      {
+        "who": "Shaw",
+        "line": "Want to ask how I'm feeling?"
+      },
+      {
+        "who": "Reese",
+        "line": "Okay. How you feeling?"
+      },
+      {
+        "who": "Shaw",
+        "line": "I'm not feeling anything."
+      },
+      {
+        "who": "Reese",
+        "line": "I can't have you sit on the sidelines, Shaw. I need you to decide to fight."
+      },
+      {
+        "who": "Shaw",
+        "line": "I have made a decision. This simulation sucks. And I'm ready to start again."
+      },
+      {
+        "who": "Shaw",
+        "line": "Here I am. Come and get me."
+      },
+      {
+        "who": "Reese",
+        "line": "Shaw, stop! This is not a simulation."
+      },
+      {
+        "who": "Shaw",
+        "line": "Yeah, I've heard that before."
+      },
+      {
+        "who": "Reese",
+        "line": "I think you're getting Root's rotating identities now that she's..."
+      },
+      {
+        "who": "Shaw",
+        "line": "Undercover's not really my strong suit."
+      }
+    ],
+    "characters": [
+      "Shaw",
+      "Reese",
+      "Root"
+    ],
+    "tags": [
+      "simulation",
+      "loss",
+      "emotional",
+      "major-moment"
+    ],
+    "aliases": [
+      "这不是模拟",
+      "我什么都感觉不到",
+      "来抓我啊",
+      "轮换身份",
+      "重来一次",
+      "this simulation sucks",
+      "not a simulation",
+      "I'm not feeling anything",
+      "come and get me"
+    ],
+    "related": [
+      {
+        "id": "s05e04-simulation-6742",
+        "note": "她在里面待过六千多次，出来之后没法确定这次是真的",
+        "back": "这就是她后来分不清真假的原因"
+      }
+    ],
+    "episodeTitle": "Synecdoche"
+  },
+  {
+    "id": "s05e07-they-exist",
+    "season": 5,
+    "episode": 7,
+    "start": "10:38",
+    "end": "11:50",
+    "verified": true,
+    "priority": 2,
+    "title": "它们已经在这儿了",
+    "description": "顶着 Rose 上阴谋论电台，她说的全是真话。",
+    "quote": [
+      {
+        "who": "Max",
+        "line": "Hi there."
+      },
+      {
+        "who": "Root",
+        "line": "Hey, Max."
+      },
+      {
+        "who": "Max",
+        "line": "Nice outfit."
+      },
+      {
+        "who": "Root",
+        "line": "Hmm, thanks."
+      },
+      {
+        "who": "Max",
+        "line": "Rose is sitting across from me right now wearing a shirt that says \"They exist.\" I think we can all agree to that, but what about Fermi's Paradox, Rose? They exist, so where are they?"
+      },
+      {
+        "who": "Root",
+        "line": "I think non-human intelligence is already here, Max. Most people are just too oblivious to see it."
+      },
+      {
+        "who": "Max",
+        "line": "Some think we haven't met any intelligent life because it's all been destroyed by a technological singularity. Thoughts?"
+      },
+      {
+        "who": "Root",
+        "line": "I think sooner rather than later, we're gonna find out just how true that theory is."
+      }
+    ],
+    "characters": [
+      "Root"
+    ],
+    "tags": [
+      "cover-identity",
+      "the-machine",
+      "funny"
+    ],
+    "aliases": [
+      "它们存在",
+      "非人类智能",
+      "费米悖论",
+      "奇点",
+      "Rose",
+      "电台",
+      "they exist",
+      "Fermi's Paradox",
+      "non-human intelligence",
+      "singularity"
+    ],
+    "related": [
+      {
+        "id": "s05e07-not-expecting-me",
+        "note": "同一个假身份，同一个晚上",
+        "back": "她在电台里那身衣服写着「它们存在」"
+      }
+    ],
+    "episodeTitle": "QSO"
   }
 ]
 
