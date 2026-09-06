@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoot moments — 情节 → 集数 → 时间</title>
+    <meta name="description" content="我记得一个 Shoot 情节，告诉我它在哪一集、从几分几秒开始。" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="masthead">
+      <h1>Shoot moments</h1>
+      <p class="tagline">我记得一个情节 → 它在哪一集，从几分几秒开始。</p>
+    </header>
+
+    <main>
+      <section class="search" aria-label="搜索">
+        <label class="search-label" for="q">What Shoot moment are you looking for?</label>
+        <input
+          id="q"
+          type="search"
+          autocomplete="off"
+          autofocus
+          placeholder="真正重逢 / 电梯 / Root 撩 Shaw / S4E11"
+        />
+        <p class="search-hint" id="hint"></p>
+      </section>
+
+      <div class="focus" id="focus" role="group" aria-label="看哪条线"></div>
+
+      <section class="scenes" aria-label="按场景找">
+        <h2>想不起来关键词？按场景找</h2>
+        <div class="scene-grid" id="scenes" role="group"></div>
+      </section>
+
+      <section class="timeline" aria-label="时间线">
+        <div class="timeline-head">
+          <h2>时间线</h2>
+          <button id="timeline-toggle" type="button"></button>
+        </div>
+        <div id="timeline"></div>
+      </section>
+
+      <section class="rewatch" aria-label="按时间重看">
+        <h2>I want to rewatch Shoot</h2>
+        <div class="budgets" id="budgets" role="group" aria-label="有多少时间"></div>
+        <div id="plan"></div>
+      </section>
+
+      <section aria-label="结果">
+        <div id="results" class="cards"></div>
+      </section>
+    </main>
+
+    <div id="detail" class="detail" hidden></div>
+
+    <footer>
+      <p>
+        时间戳来自本地字幕索引，标「时间待确认」的还没核过。
+        <a href="https://github.com/shoot5313">shoot5313</a>
+      </p>
+    </footer>
+
+    <script type="module" src="src/app.js"></script>
+  </body>
+</html>
