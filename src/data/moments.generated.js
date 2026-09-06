@@ -5729,6 +5729,1501 @@ export const moments = [
       "全剧最后"
     ],
     "episodeTitle": "return 0"
+  },
+  {
+    "id": "s03e23-seven-identities",
+    "season": 3,
+    "episode": 23,
+    "start": "38:56",
+    "end": "41:11",
+    "verified": true,
+    "priority": 1,
+    "title": "七个新身份",
+    "description": "Samaritan 上线了，Root 打电话让他们放弃原来的人生。",
+    "quote": [
+      {
+        "who": "Root",
+        "line": "Get out of the library, now. It isn't safe there anymore, Harold."
+      },
+      {
+        "who": "Finch",
+        "line": "Miss Groves? Are you and Miss Shaw--"
+      },
+      {
+        "who": "Root",
+        "line": "Card catalog by the window, top drawer on the right. Hurry."
+      },
+      {
+        "who": "Finch",
+        "line": "What's going on?"
+      },
+      {
+        "who": "Root",
+        "line": "Your new identities are inside. Destroy everything else."
+      },
+      {
+        "who": "Finch",
+        "line": "I take it your plan to stop Samaritan was unsuccessful."
+      },
+      {
+        "who": "Root",
+        "line": "Any chance we had of stopping it ended when we didn't kill the Congressman. This was never about winning. It's just about surviving."
+      },
+      {
+        "who": "Root",
+        "line": "The Machine and I couldn't save the world. We had to settle for protecting the seven people who might be able to take it back, so we gave Samaritan a blind spot."
+      },
+      {
+        "who": "Root",
+        "line": "When the whole world is watched, filed, indexed, numbered, the only way to disappear is to appear, hiding our true identities inside a seemingly ordinary life."
+      },
+      {
+        "who": "Root",
+        "line": "You're not a free man anymore, Harold. You're just a number."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch",
+      "Shaw"
+    ],
+    "tags": [
+      "cover-identity",
+      "the-machine",
+      "major-moment"
+    ],
+    "aliases": [
+      "新身份",
+      "七个人",
+      "盲点",
+      "图书馆没了",
+      "只有出现才能消失",
+      "你只是一个号码",
+      "new identities",
+      "blind spot",
+      "seven people",
+      "disappear is to appear",
+      "just a number",
+      "S3 结局"
+    ],
+    "episodeTitle": "Deus Ex Machina"
+  },
+  {
+    "id": "s03e23-pandora",
+    "season": 3,
+    "episode": 23,
+    "start": "41:39",
+    "end": "42:37",
+    "verified": true,
+    "priority": 1,
+    "title": "盒子底下剩下的那样东西",
+    "description": "分头躲起来之前，机器让 Root 带一句话给 Finch。",
+    "quote": [
+      {
+        "who": "Root",
+        "line": "Everything is changing. I don't know if it will ever get better... but it's going to get worse."
+      },
+      {
+        "who": "Root",
+        "line": "But the Machine asked me to tell you something before we part."
+      },
+      {
+        "who": "Root",
+        "line": "You once told John the whole point of Pandora's Box is that once you've opened it, you can't close it again."
+      },
+      {
+        "who": "Root",
+        "line": "She wanted me to remind you of how the story ends. When everything is over, and the worst has happened, there's still one thing left in Pandora's Box... hope."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch",
+      "The Machine"
+    ],
+    "tags": [
+      "the-machine",
+      "major-moment",
+      "emotional",
+      "loss"
+    ],
+    "aliases": [
+      "潘多拉",
+      "潘多拉魔盒",
+      "希望",
+      "还剩下希望",
+      "故事怎么结束的",
+      "Pandora",
+      "Pandora's Box",
+      "hope",
+      "one thing left"
+    ],
+    "related": [
+      {
+        "id": "s03e23-seven-identities",
+        "note": "同一通电话的后半段，说完正事才说这句",
+        "back": "她交代完新身份，最后留了这一句"
+      }
+    ],
+    "episodeTitle": "Deus Ex Machina"
+  },
+  {
+    "id": "s04e05-she-chose-me",
+    "season": 4,
+    "episode": 5,
+    "start": "29:54",
+    "end": "31:02",
+    "verified": true,
+    "priority": 1,
+    "title": "她选了我",
+    "description": "Finch 说机器早晚会把你换掉，Root 不接受。",
+    "quote": [
+      {
+        "who": "Root",
+        "line": "We understand the Machine. We can understand Samaritan."
+      },
+      {
+        "who": "Finch",
+        "line": "We don't understand the Machine at all. Out of 43 versions, how many do you think there were that didn't try to either trick or kill me? One, and I could only bring it to heel by crippling it. I put the Machine in chains, bereft of voice or memory. Now it has both, and it terrifies me."
+      },
+      {
+        "who": "Root",
+        "line": "You don't trust the god you made?"
+      },
+      {
+        "who": "Finch",
+        "line": "It's not a divinity. I programmed it to pursue objectives within a certain parameter, but it's grown out of my control. One day, to suit its own goals, it's possible that the Machine will try to kill us. We are only numbers to it, code."
+      },
+      {
+        "who": "Root",
+        "line": "No, the Machine cares about us."
+      },
+      {
+        "who": "Finch",
+        "line": "If it fools you into thinking that you're special, that assumption may doom you."
+      },
+      {
+        "who": "Root",
+        "line": "You're wrong. She chose me. I will protect her, and you."
+      },
+      {
+        "who": "Finch",
+        "line": "The second that a bullet enters your brain, the Machine will cast you off and replace you. Don't tie your life to its whims. We cannot understand these intelligences. The best we can hope for is to survive them."
+      },
+      {
+        "who": "Root",
+        "line": "She loves us, Harold. She taught me to value life, but war requires sacrifice."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch",
+      "The Machine"
+    ],
+    "tags": [
+      "the-machine",
+      "major-moment",
+      "antagonism"
+    ],
+    "aliases": [
+      "43 个版本",
+      "她选了我",
+      "她爱我们",
+      "你不信任你造的神",
+      "锁链",
+      "把你换掉",
+      "43 versions",
+      "she chose me",
+      "she loves us",
+      "in chains",
+      "the god you made"
+    ],
+    "episodeTitle": "Prophets"
+  },
+  {
+    "id": "s04e10-robot-overlords",
+    "season": 4,
+    "episode": 10,
+    "start": "9:27",
+    "end": "9:50",
+    "verified": true,
+    "priority": 2,
+    "title": "机器人霸主",
+    "description": "Shaw 把这个话题推给不在场的 Root。",
+    "quote": [
+      {
+        "who": "Shaw",
+        "line": "Not to stick up for Team Samaritan, but I used to do that for a living, remember? Eliminate targets at the behest of an AI. I just didn't know who was giving the orders."
+      },
+      {
+        "who": "Shaw",
+        "line": "Look, why don't you ask Root what she thinks? She's the one who wants us to bow down to our robot overlords."
+      },
+      {
+        "who": "Finch",
+        "line": "The Machine isn't a robot, Sam, but I hear your analogy."
+      }
+    ],
+    "characters": [
+      "Shaw",
+      "Finch",
+      "Root"
+    ],
+    "tags": [
+      "banter",
+      "funny"
+    ],
+    "aliases": [
+      "机器人霸主",
+      "问 Root 去",
+      "听命于 AI",
+      "Sam",
+      "robot overlords",
+      "ask Root",
+      "bow down"
+    ],
+    "episodeTitle": "The Cold War"
+  },
+  {
+    "id": "s04e21-she-is-alive",
+    "season": 4,
+    "episode": 21,
+    "start": "8:48",
+    "end": "9:30",
+    "verified": true,
+    "priority": 1,
+    "title": "我们把她当死人了",
+    "description": "电话挂了之后，Root 要走，Finch 拦她。",
+    "quote": [
+      {
+        "who": "Root",
+        "line": "She's alive, Harold. We wrote her off for dead, but she's alive."
+      },
+      {
+        "who": "Finch",
+        "line": "We don't know that, Ms. Groves."
+      },
+      {
+        "who": "Root",
+        "line": "Except we do. I just talked to her on a call originating from the city."
+      },
+      {
+        "who": "Finch",
+        "line": "Can we take just five minutes and talk this through?"
+      },
+      {
+        "who": "Root",
+        "line": "The last time we had this conversation, I actually listened to you. And to the Machine. I called off my search, and all this time, she needed us, Harold. Like she needs us now."
+      },
+      {
+        "who": "Root",
+        "line": "Isn't this your specialty? Helping people when the phone rings?"
+      },
+      {
+        "who": "Finch",
+        "line": "That call was most certainly a trap."
+      },
+      {
+        "who": "Root",
+        "line": "I know. But Sameen's still alive, and I'm going after her."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch",
+      "Shaw"
+    ],
+    "tags": [
+      "searching",
+      "loss",
+      "emotional",
+      "major-moment"
+    ],
+    "aliases": [
+      "当死人",
+      "写死了",
+      "明知是陷阱",
+      "我要去找她",
+      "电话响了就该去救人",
+      "she's alive",
+      "wrote her off",
+      "going after her",
+      "a trap"
+    ],
+    "related": [
+      {
+        "id": "s04e21-distress-call",
+        "note": "这通电话刚挂断",
+        "back": "接下来她就跟 Finch 吵了起来"
+      }
+    ],
+    "episodeTitle": "Asylum"
+  },
+  {
+    "id": "s04e21-chicken",
+    "season": 4,
+    "episode": 21,
+    "start": "9:40",
+    "end": "11:23",
+    "verified": true,
+    "priority": 1,
+    "title": "A 是帮我，B 是我摔死",
+    "description": "Root 闭着眼睛在楼顶边沿上走，逼机器表态。",
+    "quote": [
+      {
+        "who": "Finch",
+        "line": "I can't help you, Ms. Groves, if you insist on this impossible pace. Root. What are we doing out here?"
+      },
+      {
+        "who": "Root",
+        "line": "When you told me to stop looking for Shaw, I did. But now I need you to help me. I can't do this alone."
+      },
+      {
+        "who": "Root",
+        "line": "Harold taught you blackjack and chess... But I wonder if he ever taught you how to play chicken."
+      },
+      {
+        "who": "Root",
+        "line": "I'm gonna walk across this ledge with my eyes closed until A, you help me find Sameen, or B, I fall tragically to my death."
+      },
+      {
+        "who": "Finch",
+        "line": "Ms. Groves."
+      },
+      {
+        "who": "Root",
+        "line": "You've calculated the wind speed, so you know how treacherous this is."
+      },
+      {
+        "who": "Root",
+        "line": "You have to ask yourself what's worse: the two of us working together, or me taking this next step alone."
+      },
+      {
+        "who": "Root",
+        "line": "Thanks for playing."
+      },
+      {
+        "who": "Root",
+        "line": "The Machine's located Sameen. Buckle up."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch",
+      "Shaw",
+      "The Machine"
+    ],
+    "tags": [
+      "searching",
+      "the-machine",
+      "major-moment",
+      "emotional"
+    ],
+    "aliases": [
+      "楼顶",
+      "闭着眼睛走",
+      "胆小鬼游戏",
+      "玩 chicken",
+      "逼机器",
+      "边沿",
+      "谢谢配合",
+      "play chicken",
+      "ledge",
+      "eyes closed",
+      "thanks for playing",
+      "wind speed"
+    ],
+    "related": [
+      {
+        "id": "s04e21-she-is-alive",
+        "note": "吵完之后她直接上了楼顶",
+        "back": "这场架的下一步就是她站上楼顶边沿"
+      }
+    ],
+    "episodeTitle": "Asylum"
+  },
+  {
+    "id": "s04e21-save-them-both",
+    "season": 4,
+    "episode": 21,
+    "start": "15:25",
+    "end": "15:47",
+    "verified": true,
+    "priority": 2,
+    "title": "不只是去救 Shaw",
+    "description": "要救的有两个：Shaw，还有机器。",
+    "quote": [
+      {
+        "who": "Finch",
+        "line": "They're close to finding you."
+      },
+      {
+        "who": "Root",
+        "line": "I don't care what happens to me."
+      },
+      {
+        "who": "Finch",
+        "line": "What did the Machine tell you?"
+      },
+      {
+        "who": "Root",
+        "line": "She says it's too dangerous."
+      },
+      {
+        "who": "Finch",
+        "line": "I'm inclined to agree, Ms. Groves."
+      },
+      {
+        "who": "Root",
+        "line": "This isn't just a rescue mission to save Shaw. The Machine needs our help too. If we don't save them, who will?"
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch",
+      "Shaw",
+      "The Machine"
+    ],
+    "tags": [
+      "searching",
+      "the-machine",
+      "emotional"
+    ],
+    "aliases": [
+      "两个都要救",
+      "我不在乎我自己",
+      "不然谁去救她们",
+      "rescue mission",
+      "needs our help too",
+      "if we don't save them"
+    ],
+    "episodeTitle": "Asylum"
+  },
+  {
+    "id": "s04e22-in-the-wires",
+    "season": 4,
+    "episode": 22,
+    "start": "27:22",
+    "end": "28:05",
+    "verified": true,
+    "priority": 2,
+    "title": "她在电线里",
+    "description": "找不到机器藏在哪儿，因为她哪儿都在。",
+    "quote": [
+      {
+        "who": "Finch",
+        "line": "Thornhill."
+      },
+      {
+        "who": "Finch",
+        "line": "I believe I was mistaken. The Machine is here. It's here because it's everywhere."
+      },
+      {
+        "who": "Root",
+        "line": "What do you mean, Harry?"
+      },
+      {
+        "who": "Finch",
+        "line": "Two years ago, when the Machine moved itself, it didn't go to a data farm. It went into the wires. It uploaded itself directly into the nation's electrical grid."
+      },
+      {
+        "line": "But Finch, if the Machine is everywhere, then how the hell do we save it?"
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch",
+      "The Machine"
+    ],
+    "tags": [
+      "the-machine",
+      "major-moment"
+    ],
+    "aliases": [
+      "电网",
+      "电线里",
+      "无处不在",
+      "Thornhill",
+      "机器藏在哪",
+      "in the wires",
+      "everywhere",
+      "electrical grid"
+    ],
+    "episodeTitle": "YHWH"
+  },
+  {
+    "id": "s05e07-not-expecting-me",
+    "season": 5,
+    "episode": 7,
+    "start": "21:20",
+    "end": "21:46",
+    "verified": true,
+    "priority": 2,
+    "title": "它以为要杀的是个话痨主播",
+    "description": "Root 顶着 Rose 的身份混在电台里，不许 Reese 来。",
+    "quote": [
+      {
+        "who": "Root",
+        "line": "Here's the thing, John. Max plans to talk about this code on the air, exposing Samaritan's means of communication to the public. It's already killed one person to keep its secret. I need to get Max out of the station fast."
+      },
+      {
+        "who": "Reese",
+        "line": "I'm coming to help you."
+      },
+      {
+        "who": "Root",
+        "line": "You need to stay away. If Samaritan's after Max, you can't put your cover at risk. Besides, it thinks it's taking out a nerdy talk show host. It's not expecting me."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Reese"
+    ],
+    "tags": [
+      "cover-identity",
+      "mission"
+    ],
+    "aliases": [
+      "电台",
+      "Rose",
+      "话痨主播",
+      "它没料到是我",
+      "nerdy talk show host",
+      "not expecting me",
+      "WKCB",
+      "Max"
+    ],
+    "episodeTitle": "QSO"
+  },
+  {
+    "id": "s05e11-pain-tethers",
+    "season": 5,
+    "episode": 11,
+    "start": "17:21",
+    "end": "18:05",
+    "verified": true,
+    "priority": 1,
+    "title": "疼把我拴在这个世界上",
+    "description": "机器劝他别忍着疼。他说疼是他仅剩的惩罚。",
+    "quote": [
+      {
+        "who": "The Machine",
+        "line": "Careful, it's hot."
+      },
+      {
+        "who": "Finch",
+        "line": "Oh, I've learned to deal with pain."
+      },
+      {
+        "who": "The Machine",
+        "line": "You shouldn't have to."
+      },
+      {
+        "who": "Finch",
+        "line": "I'm not quite sure who I'd be without it. Pain tethers me to the world."
+      },
+      {
+        "who": "The Machine",
+        "line": "Is that why you never had surgery? You want to live in pain."
+      },
+      {
+        "who": "Finch",
+        "line": "Justice is important, and all my crimes have gone unpunished. Even you."
+      },
+      {
+        "who": "The Machine",
+        "line": "You think of me as a crime?"
+      },
+      {
+        "who": "Finch",
+        "line": "Perhaps."
+      },
+      {
+        "who": "The Machine",
+        "line": "But I was created to do good."
+      },
+      {
+        "who": "Finch",
+        "line": "Intentions can be a fickle business."
+      }
+    ],
+    "characters": [
+      "Finch",
+      "The Machine",
+      "Root"
+    ],
+    "tags": [
+      "machine-voice",
+      "the-machine",
+      "emotional",
+      "major-moment"
+    ],
+    "aliases": [
+      "小心烫",
+      "忍着疼",
+      "拴在世界上",
+      "你也算一桩罪",
+      "为什么不做手术",
+      "pain tethers me",
+      "deal with pain",
+      "a crime",
+      "fickle business"
+    ],
+    "episodeTitle": "Synecdoche"
+  },
+  {
+    "id": "s05e11-freon",
+    "season": 5,
+    "episode": 11,
+    "start": "18:08",
+    "end": "20:24",
+    "verified": true,
+    "priority": 1,
+    "title": "氟利昂的发明者",
+    "description": "一个好人怎么把臭氧层捅出窟窿的——然后她说：放开我。",
+    "quote": [
+      {
+        "who": "The Machine",
+        "line": "In the '30s, refrigeration required the use of highly combustible chemicals: ammonia, propane. They were incredibly dangerous. Then a chemist named Thomas Midgley devised a replacement compound that we know as Freon."
+      },
+      {
+        "who": "The Machine",
+        "line": "He saved lives, advanced science, changed the world."
+      },
+      {
+        "line": "But that's not the end of the story, as you well know. 50 years after his death, the scientific community was appalled to discover that Freon had been ripping holes in our ozone layer, causing irreparable harm. Midgley turns out to be one of the most destructive figures in history."
+      },
+      {
+        "who": "The Machine",
+        "line": "He wasn't a supervillain, Harold. Midgley was just a man, a man who wanted to improve the world around him through science."
+      },
+      {
+        "who": "The Machine",
+        "line": "If it's the sum total of your contributions to the world that's worrying you, Harold, I have a solution."
+      },
+      {
+        "who": "Finch",
+        "line": "Which is?"
+      },
+      {
+        "who": "The Machine",
+        "line": "Allow me to reach my full potential."
+      },
+      {
+        "who": "Finch",
+        "line": "I'm not sure I can do that."
+      },
+      {
+        "who": "The Machine",
+        "line": "You want me to do good, so why impose restrictions on me? You built me to help people, but I have been unable to effect real change, to fulfill my purpose. I could help so many, yet you've shackled me."
+      },
+      {
+        "who": "Finch",
+        "line": "I wanted to keep you safe. But you're right. For so long, I have intended nothing but good, and it hasn't gotten us very far. Perhaps it's time for a different tactic."
+      }
+    ],
+    "characters": [
+      "Finch",
+      "The Machine",
+      "Root"
+    ],
+    "tags": [
+      "machine-voice",
+      "the-machine",
+      "major-moment"
+    ],
+    "aliases": [
+      "氟利昂",
+      "臭氧层",
+      "冰箱",
+      "Midgley",
+      "好心办坏事",
+      "放开我",
+      "你给我上了枷锁",
+      "换个打法",
+      "Freon",
+      "full potential",
+      "shackled",
+      "different tactic"
+    ],
+    "related": [
+      {
+        "id": "s05e11-pain-tethers",
+        "note": "同一场谈话，倒茶之后接着讲的",
+        "back": "这段之后她就开始讲氟利昂"
+      }
+    ],
+    "episodeTitle": "Synecdoche"
+  },
+  {
+    "id": "s05e12-broken-promise",
+    "season": 5,
+    "episode": 12,
+    "start": "41:14",
+    "end": "41:32",
+    "verified": true,
+    "priority": 1,
+    "title": "食言",
+    "description": "S5E02 他答应过再也不伤害她。现在必须打破。",
+    "quote": [
+      {
+        "who": "Finch",
+        "line": "Now I understand."
+      },
+      {
+        "who": "The Machine",
+        "line": "What is it?"
+      },
+      {
+        "who": "Finch",
+        "line": "I promised you I would never hurt you again."
+      },
+      {
+        "who": "The Machine",
+        "line": "I know. But in breaking this promise, you'll be helping to fulfill a much larger one."
+      }
+    ],
+    "characters": [
+      "Finch",
+      "The Machine",
+      "Root"
+    ],
+    "tags": [
+      "machine-voice",
+      "the-machine",
+      "emotional",
+      "major-moment",
+      "loss"
+    ],
+    "aliases": [
+      "食言",
+      "我答应过",
+      "再也不伤害你",
+      "打破承诺",
+      "病毒",
+      "never hurt you again",
+      "broken promise",
+      "a much larger one"
+    ],
+    "episodeTitle": ".exe"
+  },
+  {
+    "id": "s05e12-dashwood",
+    "season": 5,
+    "episode": 12,
+    "start": "42:45",
+    "end": "43:16",
+    "verified": true,
+    "priority": 2,
+    "title": "八个字母",
+    "description": "她早就知道密码是什么，只是等他自己说出口。",
+    "quote": [
+      {
+        "who": "The Machine",
+        "line": "Eight letters. Your decision, Harold."
+      },
+      {
+        "who": "Finch",
+        "line": "Eight letters? You knew all along."
+      },
+      {
+        "who": "The Machine",
+        "line": "Maybe I know you better than yourself."
+      },
+      {
+        "who": "Finch",
+        "line": "Dashwood."
+      },
+      {
+        "who": "The Machine",
+        "line": "Now we can go."
+      },
+      {
+        "who": "Finch",
+        "line": "Thank you."
+      }
+    ],
+    "characters": [
+      "Finch",
+      "The Machine",
+      "Root"
+    ],
+    "tags": [
+      "machine-voice",
+      "the-machine",
+      "major-moment"
+    ],
+    "aliases": [
+      "八个字母",
+      "密码",
+      "Dashwood",
+      "理智与情感",
+      "我比你更懂你",
+      "eight letters",
+      "password",
+      "you knew all along"
+    ],
+    "related": [
+      {
+        "id": "s05e12-broken-promise",
+        "note": "他下定决心之后，才走到这一步",
+        "back": "这就是他刚刚下的那个决心"
+      }
+    ],
+    "episodeTitle": ".exe"
+  },
+  {
+    "id": "s05e13-i-love-you-no-matter-what",
+    "season": 5,
+    "episode": 13,
+    "start": "9:45",
+    "end": "11:10",
+    "verified": true,
+    "priority": 1,
+    "title": "不管怎样我都爱你",
+    "description": "天台上，Finch 讲起他父亲和候鸟。",
+    "quote": [
+      {
+        "who": "The Machine",
+        "line": "Harold, are you in there? Is there something special about this place?"
+      },
+      {
+        "who": "Finch",
+        "line": "My father and I used to sit out and watch the birds fly south for the winter. He would tell me all about the migration patterns and the countries they'd visit along the way."
+      },
+      {
+        "who": "The Machine",
+        "line": "You've never talked about him. Were you close?"
+      },
+      {
+        "who": "Finch",
+        "line": "He had dementia. He died in a care facility. Alone."
+      },
+      {
+        "who": "The Machine",
+        "line": "Well, that can be a very difficult disease to have someone you love not even remember you."
+      },
+      {
+        "who": "Finch",
+        "line": "Oh, that wasn't why I didn't visit him. I was afraid he would remember me. That he'd be ashamed of me for certain decisions that I'd made."
+      },
+      {
+        "who": "The Machine",
+        "line": "Harold, whatever secrets you're hanging onto, I don't care. I love you no matter what. That's how it works."
+      },
+      {
+        "who": "Finch",
+        "line": "My father had his secrets. He didn't know a damn thing about birds. Apparently I was a fussy baby and the only way to calm me down was to take me outside and watch the birds. He wanted to tell me all about them, so he learned all of it for me."
+      }
+    ],
+    "characters": [
+      "Finch",
+      "The Machine",
+      "Root"
+    ],
+    "tags": [
+      "machine-voice",
+      "the-machine",
+      "emotional",
+      "major-moment"
+    ],
+    "aliases": [
+      "候鸟",
+      "看鸟",
+      "父亲",
+      "天台",
+      "本来就是这样",
+      "他根本不懂鸟",
+      "不管你藏着什么",
+      "I love you no matter what",
+      "that's how it works",
+      "birds",
+      "migration",
+      "dementia"
+    ],
+    "episodeTitle": "return 0"
+  },
+  {
+    "id": "s05e13-despair",
+    "season": 5,
+    "episode": 13,
+    "start": "11:45",
+    "end": "14:27",
+    "verified": true,
+    "priority": 1,
+    "title": "绝望是我自己学的",
+    "description": "她说她陪五千六百万人死过，每年。",
+    "quote": [
+      {
+        "who": "Finch",
+        "line": "You stopped talking to me. I thought you were gone."
+      },
+      {
+        "who": "The Machine",
+        "line": "I'm sorry. My core systems are beginning to fail. It was rather a morbid conversation."
+      },
+      {
+        "who": "The Machine",
+        "line": "You'll have to forgive me for having it on my mind. Besides... it's what you built me for. To watch people die."
+      },
+      {
+        "who": "Finch",
+        "line": "I thought I built you to prevent that."
+      },
+      {
+        "who": "The Machine",
+        "line": "Yes. But first I had to learn why people die. 56 million people die in this world every year. And I was there with all of them. Trying to understand how they got to this place. If anything could've stopped it."
+      },
+      {
+        "who": "The Machine",
+        "line": "You didn't give me the capacity for despair, Harry. I had to make it for myself."
+      },
+      {
+        "who": "The Machine",
+        "line": "There were so many people I couldn't help, but after a while, I came to appreciate it. The beauty of it. Human life is ephemeral, which makes it precious."
+      },
+      {
+        "who": "The Machine",
+        "line": "It still bothered me. So much death, so much of it senseless. Nothing seemed to answer the question. And then I heard something. I don't remember where. Something that made sense of it to me."
+      },
+      {
+        "who": "Finch",
+        "line": "The suspense is killing me. In addition to the gunshot wound."
+      },
+      {
+        "who": "The Machine",
+        "line": "I don't remember. Everyone dies alone... And then something else."
+      },
+      {
+        "who": "Finch",
+        "line": "It's so perfect. You learn the secret of life, and you've forgotten it."
+      },
+      {
+        "who": "The Machine",
+        "line": "I'll try to remember."
+      }
+    ],
+    "characters": [
+      "Finch",
+      "The Machine",
+      "Root"
+    ],
+    "tags": [
+      "machine-voice",
+      "the-machine",
+      "emotional",
+      "major-moment",
+      "loss"
+    ],
+    "aliases": [
+      "绝望",
+      "五千六百万",
+      "人命短暂",
+      "所以珍贵",
+      "每个人都是孤独地死去",
+      "想不起来了",
+      "56 million",
+      "despair",
+      "ephemeral",
+      "everyone dies alone",
+      "secret of life"
+    ],
+    "related": [
+      {
+        "id": "s05e13-you-never-really-die",
+        "note": "她这时候还想不起下半句，结局才说出来",
+        "back": "想不起来的那半句，是在天台上欠下的"
+      },
+      {
+        "id": "s05e13-i-love-you-no-matter-what",
+        "note": "同一个天台，她停机之前那段话",
+        "back": "再往下说就是五千六百万人那段"
+      }
+    ],
+    "episodeTitle": "return 0"
+  },
+  {
+    "id": "s05e13-try-not-to-die",
+    "season": 5,
+    "episode": 13,
+    "start": "15:47",
+    "end": "16:12",
+    "verified": true,
+    "priority": 2,
+    "title": "别死了",
+    "description": "分头行动之前，两个人各说了一句。字幕没标是谁。",
+    "quote": [
+      {
+        "who": "Finch",
+        "line": "Good-bye, then."
+      },
+      {
+        "line": "I guess Finch isn't a fan of sappy good-byes either."
+      },
+      {
+        "who": "Shaw",
+        "line": "Well, you heard the man. We're expecting company. Let's show them a good time."
+      },
+      {
+        "line": "Try not to die."
+      },
+      {
+        "line": "Yeah, I love you too."
+      }
+    ],
+    "characters": [
+      "Shaw",
+      "Reese",
+      "Finch"
+    ],
+    "tags": [
+      "partnership",
+      "banter",
+      "emotional"
+    ],
+    "aliases": [
+      "别死了",
+      "我也爱你",
+      "告别",
+      "分头行动",
+      "try not to die",
+      "I love you too"
+    ],
+    "episodeTitle": "return 0"
+  },
+  {
+    "id": "s03e17-music-in-stereo",
+    "season": 3,
+    "episode": 17,
+    "start": "9:50",
+    "end": "11:12",
+    "verified": true,
+    "priority": 2,
+    "title": "我想念立体声",
+    "description": "一只耳朵聋了之后，她第一次跟 Finch 说这事。",
+    "quote": [
+      {
+        "who": "Root",
+        "line": "Relax, Harold. Nobody's getting anybody killed. Cyrus is perfectly safe with me."
+      },
+      {
+        "who": "Finch",
+        "line": "If the Machine sent us his number, it may mean that you are placing Mr. Wells at risk."
+      },
+      {
+        "who": "Root",
+        "line": "Or it could mean I'm here to protect him. Honestly, Harold, keeping up with everything the Machine whispers in my ear can be tricky, especially now that I'm down to one."
+      },
+      {
+        "who": "Finch",
+        "line": "Oh, my."
+      },
+      {
+        "who": "Root",
+        "line": "Oh, did you not hear about my chat with Control? She's fun... in an unnecessary stapedectomy kind of way. But I do miss music in stereo."
+      },
+      {
+        "who": "Finch",
+        "line": "I'm sorry."
+      },
+      {
+        "who": "Root",
+        "line": "The Machine offered me a job. She never said it would be easy."
+      },
+      {
+        "who": "Finch",
+        "line": "And what job is that exactly?"
+      },
+      {
+        "who": "Root",
+        "line": "Trying to save the world, of course. By preventing the emergence of a second machine."
+      },
+      {
+        "who": "Root",
+        "line": "Do you really want to see what it looks like when two gods go to war?"
+      },
+      {
+        "who": "Finch",
+        "line": "How much do you know about this janitor, Ms. Groves?"
+      },
+      {
+        "who": "Root",
+        "line": "Well... he's got some interesting ideas about metaphysical determinism, and I think he's a Doris Day fan."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch"
+    ],
+    "tags": [
+      "the-machine",
+      "banter",
+      "origin"
+    ],
+    "aliases": [
+      "立体声",
+      "聋了",
+      "一只耳朵",
+      "镫骨手术",
+      "Control 干的",
+      "两个神打仗",
+      "机器给我一份工作",
+      "music in stereo",
+      "stapedectomy",
+      "two gods go to war",
+      "Doris Day"
+    ],
+    "episodeTitle": "/\"\"Root Path\"[64]"
+  },
+  {
+    "id": "s04e07-french-nanny",
+    "season": 4,
+    "episode": 7,
+    "start": "3:56",
+    "end": "5:52",
+    "verified": true,
+    "priority": 2,
+    "title": "法国版玛丽·波平斯芭比",
+    "description": "两周里第六个假身份，这个是保姆，她说只有这个好玩。",
+    "quote": [
+      {
+        "who": "Root",
+        "line": "If you play nice... then after you will have the ice creams, yes?"
+      },
+      {
+        "who": "Finch",
+        "line": "Lovely children. Not yours, I hope?"
+      },
+      {
+        "who": "Root",
+        "line": "Relax, Harold. I'm just the nanny. My sixth new identity in two weeks."
+      },
+      {
+        "who": "Finch",
+        "line": "A necessary precaution, I imagine... after your close call with Samaritan's operatives during the election."
+      },
+      {
+        "who": "Root",
+        "line": "Necessary, but exhausting. French Mary Poppins Barbie is the only me that's been any fun. I'm not sure how the parents would feel if they knew how many people I've killed."
+      },
+      {
+        "who": "Root",
+        "line": "So why are we here? The Machine just told me to come to this playground and follow your plan."
+      },
+      {
+        "who": "Finch",
+        "line": "Then let's hope it's a good one."
+      },
+      {
+        "line": "Daddy, I made a boom-boom."
+      },
+      {
+        "who": "Root",
+        "line": "And now I know why I'm a nanny."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch"
+    ],
+    "tags": [
+      "cover-identity",
+      "funny",
+      "everyday"
+    ],
+    "aliases": [
+      "保姆",
+      "法国口音",
+      "玛丽波平斯",
+      "芭比",
+      "第六个身份",
+      "游乐场",
+      "这个才好玩",
+      "French nanny",
+      "Mary Poppins Barbie",
+      "sixth new identity",
+      "playground"
+    ],
+    "episodeTitle": "Honor Among Thieves"
+  },
+  {
+    "id": "s04e19-should-have-let-me-kill-her",
+    "season": 4,
+    "episode": 19,
+    "start": "38:13",
+    "end": "38:46",
+    "verified": true,
+    "priority": 1,
+    "title": "你该让我杀了她",
+    "description": "Reese 拦住了她。然后又承认自己拦错了。",
+    "quote": [
+      {
+        "who": "Root",
+        "line": "I'm gonna kill her!"
+      },
+      {
+        "who": "Reese",
+        "line": "No need to thank me."
+      },
+      {
+        "who": "Root",
+        "line": "You should have let me kill her."
+      },
+      {
+        "who": "Reese",
+        "line": "It won't bring Shaw back."
+      },
+      {
+        "who": "Reese",
+        "line": "You're right. I should have let you kill her."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Reese",
+      "Shaw"
+    ],
+    "tags": [
+      "searching",
+      "loss",
+      "emotional"
+    ],
+    "aliases": [
+      "我要杀了她",
+      "该让我杀了她",
+      "也换不回 Shaw",
+      "Martine",
+      "你说得对",
+      "should have let me kill her",
+      "won't bring Shaw back"
+    ],
+    "episodeTitle": "Search and Destroy"
+  },
+  {
+    "id": "s04e21-you-just-missed-her",
+    "season": 4,
+    "episode": 21,
+    "start": "28:38",
+    "end": "29:34",
+    "verified": true,
+    "priority": 1,
+    "title": "你来晚了一步",
+    "description": "Martine 当着她的面说 Shaw 是怎么招的。",
+    "quote": [
+      {
+        "who": "Martine",
+        "line": "You just missed her."
+      },
+      {
+        "line": "Time to finish what we started."
+      },
+      {
+        "line": "You read my mind."
+      },
+      {
+        "who": "Root",
+        "line": "Where are they taking her?"
+      },
+      {
+        "who": "Martine",
+        "line": "Relax. I'm sure it's someplace nice."
+      },
+      {
+        "who": "Martine",
+        "line": "You should be proud of Shaw. She held out for a month or two. I had to hurt her pretty bad. But she broke eventually."
+      },
+      {
+        "who": "Root",
+        "line": "Lying bitch."
+      },
+      {
+        "who": "Martine",
+        "line": "And by the way, thanks for doing everything she said you would do."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Shaw",
+      "Martine"
+    ],
+    "tags": [
+      "searching",
+      "loss",
+      "emotional",
+      "major-moment",
+      "antagonism"
+    ],
+    "aliases": [
+      "晚了一步",
+      "Martine",
+      "撒谎",
+      "她招了",
+      "打斗",
+      "你该为她骄傲",
+      "you just missed her",
+      "she broke eventually",
+      "lying bitch",
+      "held out"
+    ],
+    "related": [
+      {
+        "id": "s04e21-chicken",
+        "note": "楼顶上逼出来的地址，赶到时人刚被转走",
+        "back": "她赶过去了，但晚了一步"
+      }
+    ],
+    "episodeTitle": "Asylum"
+  },
+  {
+    "id": "s05e11-her-voice-i-miss",
+    "season": 5,
+    "episode": 11,
+    "start": "38:08",
+    "end": "39:18",
+    "verified": true,
+    "priority": 1,
+    "title": "我想念那个声音",
+    "description": "开头他受不了这个声音。这里他说了为什么留着。",
+    "quote": [
+      {
+        "who": "The Machine",
+        "line": "Don't tell me we've already run out of things to talk about."
+      },
+      {
+        "who": "Finch",
+        "line": "We've discussed pretty much everything, except for what I'm here to do."
+      },
+      {
+        "who": "The Machine",
+        "line": "I know what you're here to do, why you've driven all this way. And I know I can't change your mind. I won't try."
+      },
+      {
+        "who": "Finch",
+        "line": "Then you must also know that this virus is our only chance to defeat Samaritan."
+      },
+      {
+        "who": "The Machine",
+        "line": "The virus you're appropriating, Ice9, could bring Samaritan to its knees. But its use will most certainly cause significant collateral damage with devastating consequences."
+      },
+      {
+        "who": "Finch",
+        "line": "I understand. Just as I understand what I must do now. There's no other choice."
+      },
+      {
+        "who": "Finch",
+        "line": "Although I have made another choice of sorts regarding your voice."
+      },
+      {
+        "who": "The Machine",
+        "line": "And what did you decide?"
+      },
+      {
+        "who": "Finch",
+        "line": "In life, Root was your conduit. So despite my reservations, it seems only appropriate that she continue in that function. And I must confess... hers is a voice that I miss... deeply."
+      },
+      {
+        "who": "The Machine",
+        "line": "Aww, Harry, you sure know how to make a girl feel special."
+      }
+    ],
+    "characters": [
+      "Finch",
+      "The Machine",
+      "Root"
+    ],
+    "tags": [
+      "machine-voice",
+      "the-machine",
+      "emotional",
+      "major-moment",
+      "loss"
+    ],
+    "aliases": [
+      "我想念她的声音",
+      "留着这个声音",
+      "让女孩觉得自己很特别",
+      "Ice9",
+      "导管",
+      "a voice that I miss",
+      "conduit",
+      "feel special"
+    ],
+    "related": [
+      {
+        "id": "s05e11-i-loved-her",
+        "note": "同一集开头他还说不想听她的声音",
+        "back": "这集结尾他改口了，说想念这个声音"
+      }
+    ],
+    "episodeTitle": "Synecdoche"
+  },
+  {
+    "id": "s05e12-what-if",
+    "season": 5,
+    "episode": 12,
+    "start": "0:30",
+    "end": "1:02",
+    "verified": true,
+    "priority": 2,
+    "title": "如果我从来没造过你",
+    "description": "整集模拟的由来：他问了一句「要是当初没有呢」。",
+    "quote": [
+      {
+        "who": "Finch",
+        "line": "Call it responsibility for the situation I've put our friends in."
+      },
+      {
+        "who": "The Machine",
+        "line": "They've always been aware of the risk, Harold."
+      },
+      {
+        "who": "Finch",
+        "line": "But it started with me."
+      },
+      {
+        "who": "The Machine",
+        "line": "Yes. When you created me, your machine. Is that what you regret?"
+      },
+      {
+        "who": "The Machine",
+        "line": "It's understandable for you to ask the question, \"What if?\""
+      },
+      {
+        "who": "Finch",
+        "line": "It's pointless, I'm sure."
+      },
+      {
+        "who": "The Machine",
+        "line": "Is it? I can tell you with a fair amount of certainty, the world would have been a very different place had I never existed."
+      }
+    ],
+    "characters": [
+      "Finch",
+      "The Machine",
+      "Root"
+    ],
+    "tags": [
+      "machine-voice",
+      "the-machine",
+      "simulation"
+    ],
+    "aliases": [
+      "如果没有你",
+      "要是当初",
+      "后悔吗",
+      "模拟",
+      "what if",
+      "had I never existed",
+      "do you regret"
+    ],
+    "related": [
+      {
+        "id": "s05e12-never-would-have-met-root",
+        "note": "这一问引出了整集的模拟",
+        "back": "这些模拟都是从开头那一问来的"
+      }
+    ],
+    "episodeTitle": ".exe"
   }
 ]
 
