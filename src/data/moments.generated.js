@@ -120,6 +120,80 @@ export const moments = [
     "episodeTitle": "The Contingency"
   },
   {
+    "id": "s02e01-computers-than-people",
+    "season": 2,
+    "episode": 1,
+    "start": "26:53",
+    "end": "28:22",
+    "verified": true,
+    "priority": 1,
+    "title": "电脑比人更好懂",
+    "description": "Finch 让她别再乱来。她当场挑了个路人做示范。",
+    "quote": [
+      {
+        "who": "Finch",
+        "line": "You can't do that again. Your job is to protect everyone, not to protect me."
+      },
+      {
+        "who": "Root",
+        "line": "I think you've got me wrong, Harold. I don't enjoy killing people. But I don't feel very bad about it, either."
+      },
+      {
+        "who": "Root",
+        "line": "When I was a kid, computers made more sense to me than people. I bet you were the same way."
+      },
+      {
+        "who": "Root",
+        "line": "Take this woman... She looks nice enough, but she lies on her taxes and she's addicted to painkillers, and for years she's been sleeping with a married man."
+      },
+      {
+        "who": "Root",
+        "line": "Oh, I am so clumsy."
+      },
+      {
+        "who": "Root",
+        "line": "She'll be just fine... in a month or two."
+      },
+      {
+        "who": "Root",
+        "line": "And there are messier ways to do this, if you insist."
+      },
+      {
+        "who": "Finch",
+        "line": "What's she got to do with any of this?"
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch"
+    ],
+    "tags": [
+      "origin",
+      "backstory",
+      "Root-arc",
+      "major-moment"
+    ],
+    "aliases": [
+      "电脑比人更好懂",
+      "小时候",
+      "更喜欢电脑",
+      "我笨手笨脚的",
+      "随手挑个路人",
+      "示范",
+      "computers made more sense to me than people",
+      "I am so clumsy",
+      "when I was a kid"
+    ],
+    "related": [
+      {
+        "id": "s02e02-the-bad-code",
+        "note": "她在这里当众示范了一遍，下一集才把这套说法讲成理论",
+        "back": "这套「人是坏代码」的理论，她上一集已经拿一个路人示范过了"
+      }
+    ],
+    "episodeTitle": "The Contingency"
+  },
+  {
     "id": "s02e01-set-it-free",
     "season": 2,
     "episode": 1,
@@ -274,6 +348,140 @@ export const moments = [
         "id": "s02e02-not-all-humans",
         "note": "Finch 当场用 Reese 反驳了这套说法",
         "back": "被反驳的那套「人是坏代码」，在这一条"
+      }
+    ],
+    "episodeTitle": "Bad Code"
+  },
+  {
+    "id": "s02e02-so-sweet",
+    "season": 2,
+    "episode": 2,
+    "start": "15:34",
+    "end": "16:00",
+    "verified": true,
+    "priority": 2,
+    "title": "你觉得我是被什么伤过吗",
+    "description": "Finch 试图找出她变成这样的原因。她笑了。",
+    "quote": [
+      {
+        "who": "Root",
+        "line": "Really, Harold, why do men always seek to delay the inevitable?"
+      },
+      {
+        "who": "Finch",
+        "line": "What happened to you?"
+      },
+      {
+        "who": "Root",
+        "line": "Me? You think I was damaged? Some childhood trauma?"
+      },
+      {
+        "who": "Root",
+        "line": "That is so sweet."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch"
+    ],
+    "tags": [
+      "origin",
+      "backstory",
+      "banter",
+      "Root-arc"
+    ],
+    "aliases": [
+      "童年创伤",
+      "你觉得我被伤过吗",
+      "真可爱",
+      "嘲笑",
+      "被什么伤过",
+      "that is so sweet",
+      "childhood trauma",
+      "what happened to you",
+      "damaged"
+    ],
+    "related": [
+      {
+        "id": "s02e02-a-proper-burial",
+        "note": "她笑话「童年创伤」这个说法。而这一整集查的就是她的童年",
+        "back": "这一集查出来的正是她的童年。而她在片中嘲笑过「童年创伤」这个说法"
+      }
+    ],
+    "episodeTitle": "Bad Code"
+  },
+  {
+    "id": "s02e02-let-him-beat-you-up",
+    "season": 2,
+    "episode": 2,
+    "start": "31:23",
+    "end": "32:24",
+    "verified": true,
+    "priority": 1,
+    "title": "她挨这顿打是算好的",
+    "description": "Finch 反应过来：她放任对方打她、夺枪，整件事都是设计好的。",
+    "quote": [
+      {
+        "who": "Finch",
+        "line": "You knew I'd help him, didn't you? You let him beat you up, take your gun-- you planned the whole thing."
+      },
+      {
+        "who": "Root",
+        "line": "That's who you gave your machine to. Violent and predictable people."
+      },
+      {
+        "who": "Root",
+        "line": "But you must see I'm on your side."
+      },
+      {
+        "who": "Finch",
+        "line": "I'm not on any side."
+      },
+      {
+        "who": "Root",
+        "line": "You know what I mean. I am the best friend, the best support, the best partner you will ever have. And definitely the most fun."
+      },
+      {
+        "who": "Finch",
+        "line": "No. You're worse than Weeks. You're worse than all of them. I'd rather die than give you the machine, so please kill me now. At least I won't have to listen to you anymore."
+      },
+      {
+        "who": "Root",
+        "line": "You're tired... and I'm bloody. I'm gonna go clean up."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch"
+    ],
+    "tags": [
+      "origin",
+      "antagonism",
+      "banter",
+      "Root-arc",
+      "major-moment"
+    ],
+    "aliases": [
+      "苦肉计",
+      "挨打",
+      "算好的",
+      "设计好的",
+      "你累了",
+      "我在流血",
+      "最好的搭档",
+      "也最好玩",
+      "you're tired",
+      "I'm bloody",
+      "let him beat you up",
+      "planned the whole thing",
+      "best partner you will ever have",
+      "most fun"
+    ],
+    "related": [
+      {
+        "id": "s02e02-the-bad-code",
+        "note": "她挨这顿打是为了证明那套说法：人是暴力且可预测的",
+        "back": "为了证明这套说法，她让自己挨了一顿打"
       }
     ],
     "episodeTitle": "Bad Code"
