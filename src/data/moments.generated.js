@@ -1950,6 +1950,80 @@ export const moments = [
     "episodeTitle": "Lethe"
   },
   {
+    "id": "s03e12-keys-to-a-jet",
+    "season": 3,
+    "episode": 12,
+    "start": "8:05",
+    "end": "9:20",
+    "verified": true,
+    "priority": 2,
+    "title": "像把喷气机钥匙给五岁小孩",
+    "description": "Control 先是开价招安的。Root 用一个比喻回绝了。",
+    "quote": [
+      {
+        "who": "Control",
+        "line": "Our department can protect you from Harold and his friend in the suit. You have been running missions for them, correct?"
+      },
+      {
+        "who": "Root",
+        "line": "I'm more of an independent contractor."
+      },
+      {
+        "who": "Control",
+        "line": "Is that why they committed you to an asylum-- to keep you contained?"
+      },
+      {
+        "who": "Root",
+        "line": "Seems everybody wants to lock me up."
+      },
+      {
+        "who": "Control",
+        "line": "You have administrative access. You have found a way inside the machine. I want you to give me that access, for the sake of your country, and perhaps for other payment."
+      },
+      {
+        "who": "Root",
+        "line": "It'd be like giving a five-year-old keys to a jet-- irresponsible and stupid."
+      },
+      {
+        "who": "Control",
+        "line": "Well, that's a shame. I was really hoping to do this the easy way. However... there are other options."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Control"
+    ],
+    "tags": [
+      "the-machine",
+      "capture",
+      "antagonism",
+      "Root-arc"
+    ],
+    "aliases": [
+      "五岁小孩",
+      "喷气机",
+      "钥匙",
+      "招安",
+      "开价",
+      "收编",
+      "独立承包商",
+      "大家都想把我关起来",
+      "five-year-old keys to a jet",
+      "independent contractor",
+      "irresponsible and stupid",
+      "the easy way",
+      "other options"
+    ],
+    "related": [
+      {
+        "id": "s03e12-i-am-the-interface",
+        "note": "她这么回绝之后，Control 说「那我们换个方式」——接下来就是拷问",
+        "back": "动刑之前 Control 是先开价招安的，是这个比喻让她换了方式"
+      }
+    ],
+    "episodeTitle": "Aletheia"
+  },
+  {
     "id": "s03e12-i-am-the-interface",
     "season": 3,
     "episode": 12,
