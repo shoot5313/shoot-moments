@@ -8719,6 +8719,455 @@ export const moments = [
       }
     ],
     "episodeTitle": "QSO"
+  },
+  {
+    "id": "s04e12-she-does-care",
+    "season": 4,
+    "episode": 12,
+    "start": "25:04",
+    "end": "27:39",
+    "verified": true,
+    "priority": 1,
+    "title": "档案上写她不会在乎别人",
+    "description": "弄聋她那只耳朵的人，现在被绑在椅子上。",
+    "quote": [
+      {
+        "who": "Reese",
+        "line": "Either you talk to me now, or I'm gonna invite Root in here to re-create the events of your last conversation."
+      },
+      {
+        "who": "Control",
+        "line": "Good cop, bad cop? Really?"
+      },
+      {
+        "who": "Reese",
+        "line": "There are no good cops here. Where is Shaw?"
+      },
+      {
+        "who": "Control",
+        "line": "I don't know."
+      },
+      {
+        "who": "Reese",
+        "line": "I'm almost glad you said that."
+      },
+      {
+        "who": "Root",
+        "line": "Hello, old friend."
+      },
+      {
+        "who": "Control",
+        "line": "Let's not get carried away."
+      },
+      {
+        "who": "Root",
+        "line": "I'm sorry, can you repeat that? I'm deaf in this ear."
+      },
+      {
+        "who": "Control",
+        "line": "Feel free to return the favor. But it won't get you any closer to finding Shaw."
+      },
+      {
+        "who": "Root",
+        "line": "Can't return the favor. No scalpel. Besides, I'm not the monster I used to be. I've changed. Well, mostly changed."
+      },
+      {
+        "who": "Root",
+        "line": "Shaw used to work for you till you tried to kill her. You probably remember she has an Axis II personality disorder, which means technically, she's a sociopath, incapable of caring for others."
+      },
+      {
+        "who": "Root",
+        "line": "But the thing about Shaw is, she does care, enough to save my life. So today, I'm saving hers, and you're gonna help, even if you care about no one, not even your daughter Julia."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Shaw",
+      "Control",
+      "Reese"
+    ],
+    "tags": [
+      "searching",
+      "antagonism",
+      "emotional",
+      "major-moment"
+    ],
+    "aliases": [
+      "她在乎",
+      "反社会人格",
+      "二轴人格障碍",
+      "老朋友",
+      "这只耳朵聋了",
+      "没带手术刀",
+      "今天我来救她",
+      "she does care",
+      "Axis II",
+      "sociopath",
+      "deaf in this ear",
+      "hello old friend"
+    ],
+    "related": [
+      {
+        "id": "s03e17-music-in-stereo",
+        "note": "耳朵是上一季被这个人弄聋的",
+        "back": "一年后她当面把这笔账翻了出来"
+      }
+    ],
+    "episodeTitle": "Control-Alt-Delete"
+  },
+  {
+    "id": "s04e01-every-life-matters",
+    "season": 4,
+    "episode": 1,
+    "start": "24:00",
+    "end": "25:42",
+    "verified": true,
+    "priority": 1,
+    "title": "每条命都算数。这是你教我的",
+    "description": "Finch 躲进大学当教授，Root 找上门来劝他回来。",
+    "quote": [
+      {
+        "who": "Finch",
+        "line": "What brings you here today, Ms. Groves?"
+      },
+      {
+        "who": "Root",
+        "line": "Your former associates, the mayhem twins. They're back to trying to save people. Then you're also aware that they're gonna get themselves caught or killed without your help."
+      },
+      {
+        "who": "Finch",
+        "line": "And this advice is coming from you, Ms. Groves, or from the Machine?"
+      },
+      {
+        "who": "Root",
+        "line": "Now's not the time to be precious, Harold. You don't get to sit this one out. The world can't afford to indulge your indecision."
+      },
+      {
+        "who": "Finch",
+        "line": "Oh, I think I made my decision quite clear."
+      },
+      {
+        "who": "Root",
+        "line": "You have to pick a side, because this is war. And the thing we're up against, it has virtually unlimited resources, governments working unwittingly at its behest, operatives around the globe protecting it. You know how many we have? Five. Six, if you count the dog."
+      },
+      {
+        "who": "Root",
+        "line": "You have a god in this fight, Harold, and she's fighting for her life."
+      },
+      {
+        "who": "Finch",
+        "line": "I wouldn't know. She only talks to you, Ms. Groves."
+      },
+      {
+        "who": "Root",
+        "line": "Just because you stopped listening to her doesn't mean she isn't looking out for you. This job, your identity, is her keeping you alive. She has the plan, Harold, but she needs you to sit up and pay attention."
+      },
+      {
+        "who": "Finch",
+        "line": "To what, the numbers? In the face of such a struggle, saving one or two people, what difference would that make?"
+      },
+      {
+        "who": "Root",
+        "line": "Every life matters. You taught me that. The numbers, our identities, they all mean something. It all adds up to something."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch",
+      "The Machine"
+    ],
+    "tags": [
+      "the-machine",
+      "major-moment",
+      "emotional",
+      "antagonism"
+    ],
+    "aliases": [
+      "每条命都算数",
+      "是你教我的",
+      "算上狗就六个",
+      "你得选边站",
+      "捣乱二人组",
+      "她在为自己的命打仗",
+      "every life matters",
+      "you taught me that",
+      "six if you count the dog",
+      "pick a side",
+      "mayhem twins"
+    ],
+    "related": [
+      {
+        "id": "s04e05-she-chose-me",
+        "note": "同一场争论的另一半：他不信机器，她信",
+        "back": "几集前她就是这样劝他回来的"
+      }
+    ],
+    "episodeTitle": "Panopticon"
+  },
+  {
+    "id": "s03e22-here-to-rescue-you",
+    "season": 3,
+    "episode": 22,
+    "start": "25:57",
+    "end": "26:26",
+    "verified": true,
+    "priority": 2,
+    "title": "我真不敢相信我要说这句",
+    "description": "开除她、追杀她的那个上司，现在得靠她救。",
+    "quote": [
+      {
+        "who": "Control",
+        "line": "Agent Shaw."
+      },
+      {
+        "who": "Shaw",
+        "line": "Ma'am."
+      },
+      {
+        "line": "Long time no gunfire."
+      },
+      {
+        "line": "You know this woman?"
+      },
+      {
+        "who": "Control",
+        "line": "You remember the operator who took out the terrorist near your children's school?"
+      },
+      {
+        "who": "Control",
+        "line": "What do you want?"
+      },
+      {
+        "who": "Shaw",
+        "line": "I can't believe what I'm about to say. I'm here to rescue you."
+      }
+    ],
+    "characters": [
+      "Shaw",
+      "Control"
+    ],
+    "tags": [
+      "rescue",
+      "antagonism",
+      "banter"
+    ],
+    "aliases": [
+      "我是来救你的",
+      "好久没交火了",
+      "长官",
+      "Control",
+      "here to rescue you",
+      "long time no gunfire"
+    ],
+    "episodeTitle": "A House Divided"
+  },
+  {
+    "id": "s05e06-207-russians",
+    "season": 5,
+    "episode": 6,
+    "start": "33:56",
+    "end": "35:25",
+    "verified": true,
+    "priority": 2,
+    "title": "207 个俄国人",
+    "description": "关押期间，Greer 带她出门看撒玛利亚人做好事。",
+    "quote": [
+      {
+        "who": "Shaw",
+        "line": "Okay, so where are all the white guys in suits?"
+      },
+      {
+        "who": "Greer",
+        "line": "Tonight we visit the underground."
+      },
+      {
+        "who": "Shaw",
+        "line": "What, you too ashamed to take me inside?"
+      },
+      {
+        "who": "Greer",
+        "line": "That wouldn't be wise, my dear Sameen."
+      },
+      {
+        "who": "Shaw",
+        "line": "Well, I like cards and vodka."
+      },
+      {
+        "who": "Greer",
+        "line": "This is no casual card game. Those men are Chechen militants. Thus, the C-4. They plan to use the bomb, and trigger an international incident. Would you care to venture a guess at their target?"
+      },
+      {
+        "who": "Shaw",
+        "line": "The Russian Consulate."
+      },
+      {
+        "who": "Greer",
+        "line": "Quick and correct. Impressive. Yet, your former employer might not have detected the device until it was already in place. Running the risk of approximately 207 Russians dead. Consulate employees, along with their visitors... families, children."
+      },
+      {
+        "who": "Shaw",
+        "line": "Okay, I get it. Innocent people are gonna die for no good reason. Enough with the doomsday propaganda. What are you gonna do to fix it?"
+      },
+      {
+        "who": "Greer",
+        "line": "Thought you'd never ask. Move in."
+      },
+      {
+        "who": "Shaw",
+        "line": "Nice work."
+      },
+      {
+        "who": "Greer",
+        "line": "I'm afraid I can't take the credit. Samaritan is the hero here."
+      }
+    ],
+    "characters": [
+      "Shaw",
+      "Greer"
+    ],
+    "tags": [
+      "capture",
+      "antagonism"
+    ],
+    "aliases": [
+      "207 个俄国人",
+      "车臣",
+      "俄罗斯领事馆",
+      "洗脑",
+      "末日宣传",
+      "牌和伏特加",
+      "207 Russians",
+      "Chechen",
+      "Russian Consulate",
+      "doomsday propaganda"
+    ],
+    "related": [
+      {
+        "id": "s05e06-samaritan-speaks",
+        "note": "同一段关押里的闪回，先带她看好事，再让它亲自开口",
+        "back": "在这之前，Greer 先带她看了一晚上的「好事」"
+      }
+    ],
+    "episodeTitle": "A More Perfect Union"
+  },
+  {
+    "id": "s04e22-borrowed-a-few-things",
+    "season": 4,
+    "episode": 22,
+    "start": "9:01",
+    "end": "11:25",
+    "verified": true,
+    "priority": 2,
+    "title": "顺手还拿了几块内存条",
+    "description": "机器派她去偷老板的算法。结果 Finch 认识她老板。",
+    "quote": [
+      {
+        "who": "Root",
+        "line": "The Machine wants us to break into Caleb's office and borrow a few things."
+      },
+      {
+        "who": "Finch",
+        "line": "Your employee ID got us through the front door, Ms. Groves. But accessing the company code will be a whole other matter."
+      },
+      {
+        "who": "Root",
+        "line": "For a genius, my boss keeps his code locked behind a surprisingly last-gen security structure."
+      },
+      {
+        "who": "Finch",
+        "line": "The cameras are resisting loops, so I've had to disable them entirely."
+      },
+      {
+        "who": "Root",
+        "line": "Are you sure that's such a good idea, Harry? If the Machine can't see us, She can't help us."
+      },
+      {
+        "who": "Root",
+        "line": "That was way too easy. Which means..."
+      },
+      {
+        "who": "Caleb",
+        "line": "Just relax guys. I'm sure there's a good reason why Shannon, here, or whatever your name really is, broke into a secure area and tried to access my compression algorithm."
+      },
+      {
+        "who": "Root",
+        "line": "Look, I know this sounds insane, but I'm trying to save the world, and your compression algorithm plays a small but crucial part of doing that."
+      },
+      {
+        "who": "Caleb",
+        "line": "I just, I can't think why I should trust you."
+      },
+      {
+        "who": "Root",
+        "line": "Then don't. Trust him."
+      },
+      {
+        "who": "Finch",
+        "line": "Hello, Caleb."
+      },
+      {
+        "who": "Caleb",
+        "line": "Mr. Swift. What's going on here?"
+      },
+      {
+        "who": "Finch",
+        "line": "Let me just take a moment to say how proud I am of everything you've done with your life since I knew you as a student. And I truly wish there were time here for a more appropriate and meaningful reunion, but right now, I have to try to explain as best I can why we need your algorithm."
+      },
+      {
+        "who": "Caleb",
+        "line": "Hold on, Mr. Swift. Anything you need, you can have. No explanation necessary. You saved my life."
+      },
+      {
+        "who": "Finch",
+        "line": "Thank you."
+      },
+      {
+        "who": "Root",
+        "line": "Boys, there's no time. Oh, and Caleb, we also borrowed a few of the prototype 128 gig multi-state RAM chips from Project X."
+      },
+      {
+        "who": "Caleb",
+        "line": "You knew about Project X?"
+      },
+      {
+        "who": "Root",
+        "line": "Really needed it. Thanks again."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Finch",
+      "Caleb"
+    ],
+    "tags": [
+      "cover-identity",
+      "the-machine",
+      "heist",
+      "funny"
+    ],
+    "aliases": [
+      "Shannon",
+      "Caleb",
+      "压缩算法",
+      "内存条",
+      "Project X",
+      "Mr. Swift",
+      "偷算法",
+      "我老板",
+      "还是别关摄像头",
+      "borrowed a few things",
+      "compression algorithm",
+      "RAM chips",
+      "last-gen security"
+    ],
+    "related": [
+      {
+        "id": "s04e22-in-the-wires",
+        "note": "拿到算法和内存条，是为了后面把机器装进箱子",
+        "back": "装机器用的东西，就是从 Caleb 那儿顺来的"
+      }
+    ],
+    "episodeTitle": "YHWH"
   }
 ]
 
