@@ -27,6 +27,17 @@ function tokenize(text) {
   return normalized.split(' ').filter(Boolean)
 }
 
+/**
+ * 「给我看最好的那些」——这类问法指的不是某一条，而是精选那一批。
+ * 返回空结果是最差的回答，因为站上确实有这个子集（major-moment）。
+ */
+const HIGHLIGHT_WORDS = ['名场面', '名台词', '经典', '经典台词', '必看', '高光', '精选', '最好的', 'highlights', 'best']
+
+export function isHighlightQuery(query) {
+  const text = normalize(query)
+  return HIGHLIGHT_WORDS.some((w) => text === normalize(w))
+}
+
 /** "S4E11" / "s4e11" / "4x11" / "第四季第11集" → { season, episode } */
 export function parseEpisodeQuery(query) {
   const text = normalize(query)
@@ -45,8 +56,21 @@ export function parseEpisodeQuery(query) {
   return null
 }
 
-/** 每个 moment 预处理成一份可检索的索引条目。 */
-export function buildIndex(moments) {
+/**
+ * 每个 moment 预处理成一份可检索的索引条目。
+ *
+ * 传了 scenes 的话，一条 moment 也能被它所属场景的名字和别名搜到。
+ * 站上明晃晃写着「明目张胆地撩」，用户照着搜却零结果，是很蠢的事；
+ * 而「调情」「暧昧」这类词挂在场景上比往 16 条 moment 上一条条撒干净得多。
+ */
+export function buildIndex(moments, scenes = []) {
+  const sceneWords = (moment) => {
+    const tags = moment.tags ?? []
+    return scenes
+      .filter((scene) => scene.tags.some((t) => tags.includes(t)))
+      .flatMap((scene) => [scene.label, ...(scene.terms ?? [])])
+  }
+
   return moments.map((moment) => {
     const aliases = (moment.aliases ?? []).map(normalize).filter(Boolean)
     const title = normalize(moment.title)
@@ -55,6 +79,7 @@ export function buildIndex(moments) {
     const description = normalize(moment.description)
     const episodeTitle = normalize(moment.episodeTitle)
     const quote = normalize(quoteText(moment))
+    const scenes = sceneWords(moment).map(normalize).filter(Boolean)
 
     return {
       moment,
@@ -65,6 +90,7 @@ export function buildIndex(moments) {
       description,
       episodeTitle,
       quote,
+      scenes,
       code: normalize(episodeCode(moment)),
       // 模糊匹配只针对「人会拿来当检索词」的字段，不含 description，
       // 否则长描述里的偶然字符重合会把无关结果顶上来。
@@ -85,6 +111,10 @@ function scoreToken(entry, token) {
 
   if (entry.tags.includes(token)) score += 45
   else if (entry.tags.some((t) => t.startsWith(token))) score += 25
+
+  // 场景名／场景别名：比 alias 弱，因为它命中的是一整类而不是这一条
+  if (entry.scenes.includes(token)) score += 40
+  else if (entry.scenes.some((s) => s.includes(token))) score += 22
 
   if (entry.characters.some((c) => c === token || c.startsWith(token))) score += 30
   if (entry.episodeTitle.includes(token)) score += 30
@@ -117,6 +147,13 @@ function scoreToken(entry, token) {
  * @returns {{moment: object, score: number}[]} 按相关度降序
  */
 export function search(index, query) {
+  if (isHighlightQuery(query)) {
+    return index
+      .filter((e) => e.moment.tags?.includes('major-moment'))
+      .map((e) => ({ moment: e.moment, score: 1000 - (e.moment.priority ?? 3) }))
+      .sort((a, b) => b.score - a.score)
+  }
+
   const episodeFilter = parseEpisodeQuery(query)
   const tokens = tokenize(query)
 

@@ -272,7 +272,8 @@ export const moments = [
     "related": [
       {
         "id": "s02e02-not-all-humans",
-        "note": "Finch 当场用 Reese 反驳了这套说法"
+        "note": "Finch 当场用 Reese 反驳了这套说法",
+        "back": "被反驳的那套「人是坏代码」，在这一条"
       }
     ],
     "episodeTitle": "Bad Code"
@@ -327,7 +328,8 @@ export const moments = [
     "related": [
       {
         "id": "s02e02-a-proper-burial",
-        "note": "同一集结尾，她用一通道谢电话承认了反驳成立"
+        "note": "同一集结尾，她用一通道谢电话承认了这句反驳",
+        "back": "她打这通电话道谢，等于承认了 Finch 那句反驳"
       }
     ],
     "episodeTitle": "Bad Code"
@@ -456,12 +458,15 @@ export const moments = [
       "first meeting",
       "iron",
       "big fan",
-      "relevance"
+      "relevance",
+      "她们怎么认识的",
+      "第一次交手"
     ],
     "related": [
       {
         "id": "s04e07-earpiece-jealousy",
-        "note": "两年后 Root 拿这场戏当尺度衡量别人：没到蒙头扎带十小时那么辣"
+        "note": "后来 Root 拿这场戏当尺度去衡量别人：没到蒙头扎带十小时那么辣",
+        "back": "她嘴里那个「蒙头、扎带、十小时」的标准，出处就是这一场"
       }
     ],
     "episodeTitle": "Relevance"
@@ -545,7 +550,8 @@ export const moments = [
     "related": [
       {
         "id": "s04e12-the-worm",
-        "note": "镜像：最早开始找对方的是 Shaw，比 Root 的搜寻线早两季"
+        "note": "镜像：Root 后来这样找 Shaw，而先开始找的是 Shaw",
+        "back": "镜像：两季之前，先开始找对方的是 Shaw"
       }
     ],
     "episodeTitle": "Trojan Horse"
@@ -931,7 +937,8 @@ export const moments = [
     "related": [
       {
         "id": "s05e13-you-were-a-straight-line",
-        "note": "她以为自己是坏了的。两季半后收到答案"
+        "note": "她以为自己是坏了的。两季半之后收到答案",
+        "back": "她说自己「只会生气」，是在两季半之前"
       }
     ],
     "episodeTitle": "Razgovor\"\"Разговор\"[51]"
@@ -1005,7 +1012,8 @@ export const moments = [
     "related": [
       {
         "id": "s03e05-i-do-angry-okay",
-        "note": "同一集，一个是成因一个是自述"
+        "note": "同一集里她自己的说法",
+        "back": "她说的那个「一直就这样」，成因在这一场"
       }
     ],
     "episodeTitle": "Razgovor\"\"Разговор\"[51]"
@@ -1067,7 +1075,8 @@ export const moments = [
     "related": [
       {
         "id": "s05e13-you-were-a-straight-line",
-        "note": "Gen 说声音还在，Root 说那正是她美的地方"
+        "note": "Gen 说声音还在，Root 说那正是她美的地方",
+        "back": "「音量被调小了」这个说法，出自一个十几岁的女孩"
       }
     ],
     "episodeTitle": "Razgovor\"\"Разговор\"[51]"
@@ -1726,7 +1735,8 @@ export const moments = [
     "related": [
       {
         "id": "s03e12-tell-shaw",
-        "note": "这集 Shaw 说「我们需要 Root」，下集 Root 就托 Finch 谢她"
+        "note": "这集 Shaw 说「我们需要 Root」，下集 Root 就托 Finch 谢她",
+        "back": "她要谢的那句话，是上一集 Shaw 说的"
       }
     ],
     "episodeTitle": "Lethe"
@@ -1804,7 +1814,8 @@ export const moments = [
     "related": [
       {
         "id": "s05e10-machine-takes-her-voice",
-        "note": "她想成为机器的接口，最后成了机器的声音"
+        "note": "她想成为机器的接口。最后她成了机器的声音",
+        "back": "在成为机器的声音之前，她说过「我就是接口」"
       }
     ],
     "episodeTitle": "Aletheia"
@@ -2449,7 +2460,8 @@ export const moments = [
     "related": [
       {
         "id": "s04e08-i-found-her",
-        "note": "同一个柜台，七集之后来的是 Martine"
+        "note": "同一个柜台，七集之后来的人是 Martine",
+        "back": "同一个柜台，七集之前来的人是 Root"
       }
     ],
     "episodeTitle": "Panopticon"
@@ -2932,7 +2944,8 @@ export const moments = [
     "related": [
       {
         "id": "s04e11-elevator",
-        "note": "被锁定的那一刻，直通三集后的电梯"
+        "note": "被盯上的那一刻，直通三集之后的电梯",
+        "back": "她被盯上，是在三集之前的柜台"
       }
     ],
     "episodeTitle": "Point of Origin"
@@ -3107,12 +3120,16 @@ export const moments = [
       "peace offering",
       "tranq me",
       "park's deli",
-      "children's party"
+      "children's party",
+      "和好",
+      "赔罪",
+      "道歉"
     ],
     "related": [
       {
         "id": "s05e06-samaritan-speaks",
-        "note": "同一集里 Greer 也给她带了一模一样的三明治：一次是爱，一次是监视"
+        "note": "同一款三明治，后来 Greer 也带了一份：一次是爱，一次是监视",
+        "back": "同一款三明治，Root 早就带过一份：一次是爱，一次是监视"
       }
     ],
     "episodeTitle": "The Cold War"
@@ -3266,7 +3283,10 @@ export const moments = [
       "perfect for each other",
       "sociopath",
       "verbal foreplay",
-      "good enough for me"
+      "good enough for me",
+      "告白",
+      "表白那段",
+      "挑明"
     ],
     "related": [
       {
@@ -3398,12 +3418,17 @@ export const moments = [
       "elevator",
       "the kiss",
       "for god's sakes",
-      "override button"
+      "override button",
+      "初吻",
+      "亲吻",
+      "吻",
+      "那个吻"
     ],
     "related": [
       {
         "id": "s05e10-not-leaving-you-again",
-        "note": "反过来了：这次是 Root 单方面替 Shaw 做决定"
+        "note": "反过来了：那次是 Root 单方面替 Shaw 做决定",
+        "back": "反过来了：上一次是 Shaw 单方面替 Root 做决定"
       }
     ],
     "episodeTitle": "If-Then-Else"
@@ -4059,12 +4084,16 @@ export const moments = [
       "sound of my voice",
       "if you can hear this",
       "did we win",
-      "how we fought back"
+      "how we fought back",
+      "开场",
+      "开头",
+      "第五季开场"
     ],
     "related": [
       {
         "id": "s05e13-you-never-really-die",
-        "note": "同一段独白，us 变成了 me"
+        "note": "同一段独白，到结局时 us 变成了 me",
+        "back": "同一段独白，开头那版说的还是 us"
       }
     ],
     "episodeTitle": "B.S.O.D."
@@ -4311,7 +4340,8 @@ export const moments = [
     "related": [
       {
         "id": "s04e12-the-worm",
-        "note": "她说自己放弃过——但那条线上她一天都没停过"
+        "note": "她说自己放弃过。可这条线上她一天都没停",
+        "back": "她后来说自己放弃过——可这条线上她一天都没停"
       }
     ],
     "episodeTitle": "6,741"
@@ -4636,12 +4666,17 @@ export const moments = [
       "south africa",
       "reality denied",
       "prison made of pixels",
-      "coexist side by side"
+      "coexist side by side",
+      "失忆",
+      "记忆错乱",
+      "记不清",
+      "分不清哪个是真的"
     ],
     "related": [
       {
         "id": "s05e09-reunion",
-        "note": "七千次之后她分不清真假，所以不敢信眼前的 Root"
+        "note": "七千次之后她分不清真假，所以下一集不敢信眼前的 Root",
+        "back": "她不敢信，是因为上一集那七千次"
       }
     ],
     "episodeTitle": "Reassortment"
@@ -4740,7 +4775,9 @@ export const moments = [
       "shaw returns",
       "7000 simulations",
       "if you die I die too",
-      "damn it root"
+      "damn it root",
+      "再见面",
+      "终于见到"
     ],
     "episodeTitle": "Sotto Voce"
   },
@@ -4839,7 +4876,8 @@ export const moments = [
     "related": [
       {
         "id": "s05e13-you-were-a-straight-line",
-        "note": "「你形状很好」的最终回答"
+        "note": "「你形状很好」的最终回答",
+        "back": "这个答案回的是两集之前那句「你形状很好」"
       }
     ],
     "episodeTitle": "The Day the World Went Away"
@@ -5404,7 +5442,9 @@ export const moments = [
       "you never really die",
       "everyone dies alone",
       "remembers you",
-      "isn't the end at all"
+      "isn't the end at all",
+      "最后一集",
+      "全剧最后"
     ],
     "episodeTitle": "return 0"
   }
@@ -5417,6 +5457,13 @@ export const scenes = [
     "blurb": "还在互相估价的时候",
     "tags": [
       "first-meeting"
+    ],
+    "terms": [
+      "初见",
+      "相遇",
+      "第一次见面",
+      "第一次相遇",
+      "first meeting"
     ]
   },
   {
@@ -5424,6 +5471,15 @@ export const scenes = [
     "label": "各自的来处",
     "blurb": "她们成为现在这样之前发生了什么",
     "tags": [
+      "origin",
+      "backstory"
+    ],
+    "terms": [
+      "来处",
+      "过去",
+      "背景",
+      "童年",
+      "身世",
       "origin",
       "backstory"
     ]
@@ -5436,6 +5492,14 @@ export const scenes = [
       "partnership",
       "heist",
       "mission"
+    ],
+    "terms": [
+      "并肩",
+      "搭档",
+      "合作",
+      "出任务",
+      "一起干活",
+      "partnership"
     ]
   },
   {
@@ -5444,6 +5508,14 @@ export const scenes = [
     "blurb": "谁也不让谁的时候",
     "tags": [
       "antagonism",
+      "banter"
+    ],
+    "terms": [
+      "拆台",
+      "斗嘴",
+      "互怼",
+      "抬杠",
+      "嘴炮",
       "banter"
     ]
   },
@@ -5454,6 +5526,15 @@ export const scenes = [
     "tags": [
       "flirting",
       "comms"
+    ],
+    "terms": [
+      "调情",
+      "暧昧",
+      "撩",
+      "撩人",
+      "打情骂俏",
+      "flirting",
+      "flirt"
     ]
   },
   {
@@ -5461,6 +5542,13 @@ export const scenes = [
     "label": "吃醋",
     "blurb": "有第三个人出现的时候",
     "tags": [
+      "jealousy"
+    ],
+    "terms": [
+      "吃醋",
+      "醋",
+      "嫉妒",
+      "jealous",
       "jealousy"
     ]
   },
@@ -5472,6 +5560,12 @@ export const scenes = [
       "confined",
       "elevator",
       "car"
+    ],
+    "terms": [
+      "封闭空间",
+      "狭小空间",
+      "关在一起",
+      "confined"
     ]
   },
   {
@@ -5481,6 +5575,15 @@ export const scenes = [
     "tags": [
       "rescue",
       "sacrifice"
+    ],
+    "terms": [
+      "挡子弹",
+      "牺牲",
+      "舍身",
+      "救她",
+      "救人",
+      "sacrifice",
+      "rescue"
     ]
   },
   {
@@ -5488,6 +5591,13 @@ export const scenes = [
     "label": "找她",
     "blurb": "Shaw 不见了的那段日子",
     "tags": [
+      "searching"
+    ],
+    "terms": [
+      "找她",
+      "寻找",
+      "失踪",
+      "下落不明",
       "searching"
     ]
   },
@@ -5499,6 +5609,15 @@ export const scenes = [
       "capture",
       "death",
       "loss"
+    ],
+    "terms": [
+      "分离",
+      "失去",
+      "失踪",
+      "被抓",
+      "离别",
+      "告别",
+      "loss"
     ]
   },
   {
@@ -5506,6 +5625,12 @@ export const scenes = [
     "label": "重逢",
     "blurb": "回来之后的第一次面对面",
     "tags": [
+      "reunion"
+    ],
+    "terms": [
+      "重逢",
+      "再见面",
+      "回来了",
       "reunion"
     ]
   },
@@ -5515,6 +5640,14 @@ export const scenes = [
     "blurb": "分不清是不是真的",
     "tags": [
       "simulation"
+    ],
+    "terms": [
+      "模拟",
+      "幻觉",
+      "虚拟",
+      "梦境",
+      "分不清真假",
+      "simulation"
     ]
   },
   {
@@ -5523,6 +5656,11 @@ export const scenes = [
     "blurb": "她听见的那个声音",
     "tags": [
       "the-machine"
+    ],
+    "terms": [
+      "机器",
+      "the machine",
+      "人工智能"
     ]
   },
   {
@@ -5531,6 +5669,12 @@ export const scenes = [
     "blurb": "是她的声音，但已经不是她",
     "tags": [
       "machine-voice"
+    ],
+    "terms": [
+      "机器的声音",
+      "她的声音",
+      "用她的声音",
+      "machine voice"
     ]
   },
   {
@@ -5541,6 +5685,14 @@ export const scenes = [
       "cover-identity",
       "funny",
       "everyday"
+    ],
+    "terms": [
+      "日常",
+      "假身份",
+      "卧底",
+      "掩护身份",
+      "平常生活",
+      "cover identity"
     ]
   }
 ]

@@ -13,7 +13,7 @@ import {
   FOCUSES,
 } from './format.js'
 
-const index = buildIndex(moments)
+const index = buildIndex(moments, scenes)
 const byId = new Map(moments.map((m) => [m.id, m]))
 const chronological = [...moments].sort(compareChrono)
 
@@ -126,7 +126,8 @@ function renderSearch() {
     const narrowed = activeScene || activeFocus !== 'all'
     el.hint.textContent = narrowed
       ? `当前范围里没有「${query}」。清掉筛选再试试。`
-      : `没找到「${query}」。换个说法，或者补一条 alias 进 data/moments.json。`
+      : `没找到「${query}」。换个说法试试，或者从上面的场景里翻——` +
+        `记得半句台词也能直接搜。`
     el.results.replaceChildren()
     return
   }

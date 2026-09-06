@@ -2,6 +2,10 @@
 //
 // 关系只在一边声明，反向自动算出来——不然每加一条就要改两处，
 // 迟早会出现 A 指向 B 但 B 没指回 A 的情况。
+//
+// 但说明文字要分两个方向。「两年后她拿这场戏当尺度衡量别人」从 A 看成立，
+// 从 B 那边看就是反的。所以链接声明一次，措辞可以有两副面孔：
+// note 是正向的，back 是反向的；没写 back 就退回 note（对称的关系不用写）。
 
 /**
  * 一条 moment 的全部呼应，正反两向合并。
@@ -19,11 +23,11 @@ export function relatedOf(moment, moments) {
     if (target) out.set(target.id, { moment: target, note: link.note })
   }
 
-  // 反向：别人指过来的，用同一句说明
+  // 反向：别人指过来的，换成反向措辞
   for (const other of moments) {
     for (const link of other.related ?? []) {
       if (link.id === moment.id && !out.has(other.id)) {
-        out.set(other.id, { moment: other, note: link.note })
+        out.set(other.id, { moment: other, note: link.back ?? link.note })
       }
     }
   }
@@ -42,6 +46,7 @@ export function brokenLinks(moments) {
     for (const link of moment.related ?? []) {
       if (!ids.has(link.id)) broken.push({ from: moment.id, to: link.id })
       if (link.id === moment.id) broken.push({ from: moment.id, to: '（指向自己）' })
+      if (!link.note?.trim()) broken.push({ from: moment.id, to: `${link.id}（缺 note）` })
     }
   }
   return broken
