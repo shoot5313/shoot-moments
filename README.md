@@ -1,5 +1,7 @@
 # Shoot moments
 
+**中文** · [English](README.en.md)
+
 > 我记得一个情节 → 它在哪一集，从几分几秒开始。
 
 Person of Interest 里 Root 和 Shaw 的场景索引。你记得一场戏，想不起来在哪集，
