@@ -4,7 +4,7 @@ export const moments = [
     "id": "s01e23-you-can-call-me-root",
     "season": 1,
     "episode": 23,
-    "start": "39:40",
+    "start": "39:31",
     "end": "41:10",
     "verified": true,
     "priority": 1,
@@ -198,7 +198,7 @@ export const moments = [
     "season": 2,
     "episode": 1,
     "start": "41:21",
-    "end": "43:20",
+    "end": "43:29",
     "verified": true,
     "priority": 1,
     "title": "我只想让它自由",
@@ -761,7 +761,7 @@ export const moments = [
     "id": "s02e22-you-lied-to-me-too",
     "season": 2,
     "episode": 22,
-    "start": "35:29",
+    "start": "35:20",
     "end": "36:00",
     "verified": true,
     "priority": 3,
@@ -825,7 +825,7 @@ export const moments = [
     "quote": [
       {
         "who": "Therapist",
-        "line": "Some of the patients have complained about you talking late into the night, and since cell phones are strictly forbidden and you have no roommate, I can only conclude that you're talking to yourself. Is that correct?"
+        "line": "Look, some of the patients have complained about you talking late into the night, and since cell phones are strictly forbidden and you have no roommate, I can only conclude that you're talking to yourself. Is that correct?"
       },
       {
         "who": "Root",
@@ -1626,7 +1626,7 @@ export const moments = [
     "season": 3,
     "episode": 7,
     "start": "39:54",
-    "end": "41:12",
+    "end": "41:21",
     "verified": true,
     "priority": 1,
     "title": "你开的头，我来收尾",
@@ -1850,7 +1850,7 @@ export const moments = [
         "line": "You'd really rather have one of them working on you instead of me?"
       },
       {
-        "line": "Yes. Because if the only thing motivating you is technical mastery, when one of your patients needs you the most, then... this job just might start to bore you."
+        "line": "Yes. Because if... If the only thing motivating you is technical mastery, when one of your patients needs you the most, then... this job just might start to bore you."
       },
       {
         "line": "That's the difference between fixing and healing."
@@ -3071,7 +3071,7 @@ export const moments = [
     "season": 4,
     "episode": 7,
     "start": "41:17",
-    "end": "42:02",
+    "end": "42:07",
     "verified": true,
     "priority": 1,
     "title": "Tomas 呢？",
@@ -3246,7 +3246,7 @@ export const moments = [
       },
       {
         "who": "Finch",
-        "line": "Ms. Shaw, you and Ms. Groves have to avoid all cameras and get back here ASAP. Use the shadow map."
+        "line": "Indeed. Ms. Shaw, you and Ms. Groves have to avoid all cameras and get back here ASAP. Use the shadow map."
       },
       {
         "who": "Shaw",
@@ -4871,7 +4871,7 @@ export const moments = [
     "id": "s05e08-memories-overwritten",
     "season": 5,
     "episode": 8,
-    "start": "28:03",
+    "start": "27:59",
     "end": "29:50",
     "verified": true,
     "priority": 1,
@@ -5210,7 +5210,7 @@ export const moments = [
     "season": 5,
     "episode": 10,
     "start": "26:32",
-    "end": "27:52",
+    "end": "28:02",
     "verified": true,
     "priority": 1,
     "title": "他们死了，但他们没有消失",
@@ -5291,7 +5291,7 @@ export const moments = [
     "season": 5,
     "episode": 10,
     "start": "30:20",
-    "end": "31:57",
+    "end": "32:06",
     "verified": true,
     "priority": 1,
     "title": "Root 中枪",
@@ -6793,7 +6793,7 @@ export const moments = [
     "season": 3,
     "episode": 17,
     "start": "9:50",
-    "end": "11:12",
+    "end": "11:22",
     "verified": true,
     "priority": 2,
     "title": "我想念立体声",
@@ -8560,7 +8560,7 @@ export const moments = [
     "season": 5,
     "episode": 11,
     "start": "6:33",
-    "end": "7:48",
+    "end": "7:53",
     "verified": true,
     "priority": 1,
     "title": "这个模拟太烂了",
