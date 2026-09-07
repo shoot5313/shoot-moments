@@ -670,13 +670,6 @@ export const moments = [
       "她们怎么认识的",
       "第一次交手"
     ],
-    "related": [
-      {
-        "id": "s04e07-earpiece-jealousy",
-        "note": "后来 Root 拿这场戏当尺度去衡量别人：没到蒙头扎带十小时那么辣",
-        "back": "她嘴里那个「蒙头、扎带、十小时」的标准，出处就是这一场"
-      }
-    ],
     "episodeTitle": "Relevance"
   },
   {
@@ -1325,12 +1318,12 @@ export const moments = [
         "line": "I'll pass."
       },
       {
-        "who": "Root",
+        "who": "Shaw",
         "line": "Trust issues."
       },
       {
         "who": "Shaw",
-        "line": "The machine gives missions to Harold and the government-- relevant, irrelevant. Why would it be talking to you?"
+        "line": "Besides, the machine gives missions to Harold and the government-- relevant, irrelevant. Why would it be talking to you?"
       },
       {
         "who": "Root",
@@ -1391,7 +1384,11 @@ export const moments = [
       "third category",
       "team up with you",
       "houston oilers",
-      "glove compartment"
+      "glove compartment",
+      "信任问题",
+      "trust issues",
+      "电棍",
+      "镇静剂"
     ],
     "episodeTitle": "Mors Praematura"
   },
@@ -7289,7 +7286,7 @@ export const moments = [
     "verified": true,
     "priority": 1,
     "title": "你拿电熨斗招呼我那次",
-    "description": "地铁上开颅取芯片。Root 挑这个时候叙旧。",
+    "description": "地铁上开颅取芯片。Shaw 挑这个时候翻旧账。",
     "quote": [
       {
         "who": "Shaw",
@@ -7304,11 +7301,11 @@ export const moments = [
         "line": "Brain surgery, medieval-style. Awesome."
       },
       {
-        "who": "Root",
+        "who": "Shaw",
         "line": "Remember how we first met? You tried to burn me with an iron. Fun, right?"
       },
       {
-        "who": "Shaw",
+        "who": "Root",
         "line": "Mm-hmm."
       },
       {
@@ -7332,6 +7329,8 @@ export const moments = [
     ],
     "aliases": [
       "电熨斗",
+      "熨斗",
+      "翻旧账",
       "初次见面",
       "开颅",
       "地铁上做手术",
@@ -7344,8 +7343,8 @@ export const moments = [
     "related": [
       {
         "id": "s02e16-first-meeting",
-        "note": "两季之后她还拿这事开玩笑",
-        "back": "后来 Root 一直拿这次见面开玩笑"
+        "note": "她翻的旧账就是这一场：拿熨斗的是 Root",
+        "back": "两季之后 Shaw 当着她的面把这笔账翻出来"
       }
     ],
     "episodeTitle": "6,741"
@@ -9168,6 +9167,159 @@ export const moments = [
       }
     ],
     "episodeTitle": "YHWH"
+  },
+  {
+    "id": "s03e06-i-am-the-package",
+    "season": 3,
+    "episode": 6,
+    "start": "17:20",
+    "end": "18:14",
+    "verified": true,
+    "priority": 2,
+    "title": "货就是我",
+    "description": "放倒一个 CIA 探员，然后约了第二天早上八点交货。",
+    "quote": [
+      {
+        "who": "Root",
+        "line": "What's missing?"
+      },
+      {
+        "who": "Shaw",
+        "line": "Behind you."
+      },
+      {
+        "who": "Shaw",
+        "line": "Highly trained operative in a bad suit."
+      },
+      {
+        "who": "Root",
+        "line": "This is a CIA pickup site."
+      },
+      {
+        "who": "Root",
+        "line": "947-0038 Alpha."
+      },
+      {
+        "who": "Root",
+        "line": "Diego 241."
+      },
+      {
+        "line": "Pickup tomorrow, 0800. Have the package ready."
+      },
+      {
+        "who": "Shaw",
+        "line": "Okay, so what's the package?"
+      },
+      {
+        "who": "Root",
+        "line": "I am."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Shaw"
+    ],
+    "tags": [
+      "partnership",
+      "mission",
+      "cover-identity"
+    ],
+    "aliases": [
+      "货就是我",
+      "包裹",
+      "交货",
+      "CIA 接头点",
+      "0800",
+      "明早八点",
+      "电棍放倒",
+      "what's the package",
+      "I am",
+      "CIA pickup site",
+      "Diego 241"
+    ],
+    "episodeTitle": "Mors Praematura"
+  },
+  {
+    "id": "s03e06-cia-handoff",
+    "season": 3,
+    "episode": 6,
+    "start": "21:42",
+    "end": "22:20",
+    "verified": true,
+    "priority": 1,
+    "title": "蒙头、扎带、交货",
+    "description": "Root 把自己当货交出去，Shaw 假扮押送的探员。",
+    "quote": [
+      {
+        "line": "CIA is here to pick us up."
+      },
+      {
+        "who": "Shaw",
+        "line": "Any last words?"
+      },
+      {
+        "who": "Root",
+        "line": "24381."
+      },
+      {
+        "who": "Shaw",
+        "line": "Whatever."
+      },
+      {
+        "who": "Agent",
+        "line": "Pin?"
+      },
+      {
+        "who": "Shaw",
+        "line": "24381."
+      },
+      {
+        "who": "Agent",
+        "line": "Good to meet you, Agent Dearborn. She been sanitized?"
+      },
+      {
+        "who": "Agent",
+        "line": "Looks like you got a fun one."
+      },
+      {
+        "who": "Shaw",
+        "line": "You don't know the half of it."
+      }
+    ],
+    "characters": [
+      "Root",
+      "Shaw"
+    ],
+    "tags": [
+      "partnership",
+      "mission",
+      "cover-identity",
+      "confined",
+      "major-moment"
+    ],
+    "aliases": [
+      "蒙头",
+      "扎带",
+      "头套",
+      "交货",
+      "押送",
+      "Agent Dearborn",
+      "24381",
+      "有意思的一个",
+      "安全屋",
+      "last words",
+      "fun one",
+      "don't know the half of it",
+      "sanitized"
+    ],
+    "related": [
+      {
+        "id": "s04e07-earpiece-jealousy",
+        "note": "一季之后她拿这一场当尺度衡量别人：没到「蒙头扎带十小时」那么辣",
+        "back": "她嘴里那个「蒙头、扎带、CIA 安全屋、十小时」，出处就是这一场"
+      }
+    ],
+    "episodeTitle": "Mors Praematura"
   }
 ]
 
