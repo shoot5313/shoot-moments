@@ -24,4 +24,4 @@ Person of Interest 里 Root 和 Shaw 的场景索引。你记得一场戏，想�
 站上引用的台词出自 Person of Interest（CBS / Warner Bros. Television），
 版权归原权利人所有，此处仅为标注位置之用。
 
-代码为 MIT。
+除上述第三方版权内容外，本项目以 MIT License 发布
