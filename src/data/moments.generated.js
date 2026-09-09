@@ -74,7 +74,7 @@ export const moments = [
     "verified": true,
     "priority": 2,
     "title": "下次见",
-    "description": "Finch 追不到她。最后她在他的终端上留了两个词。",
+    "description": "结尾这段对话全打在终端上，没有声音。",
     "quote": [
       {
         "who": "Reese",
@@ -93,7 +93,49 @@ export const moments = [
         "line": "I need to determine the damage to my system."
       },
       {
-        "line": "Next time."
+        "who": "Root",
+        "line": "HELLO",
+        "screen": true
+      },
+      {
+        "who": "Root",
+        "line": "FBI PAID ME A VISIT. GOOD THING I TRAVEL LIGHT",
+        "screen": true
+      },
+      {
+        "who": "Finch",
+        "line": "WHO ARE YOU?",
+        "screen": true
+      },
+      {
+        "who": "Root",
+        "line": "MY NAME? I'VE HAD A FEW. YOU CAN CALL ME ROOT.",
+        "screen": true
+      },
+      {
+        "who": "Finch",
+        "line": "DID YOU KILL MATHESON?",
+        "screen": true
+      },
+      {
+        "who": "Root",
+        "line": "MATHESON WAS A CASUALTY OF HIS OWN WEAKNESS.",
+        "screen": true
+      },
+      {
+        "who": "Finch",
+        "line": "WHY DID YOU CONTACT ME?",
+        "screen": true
+      },
+      {
+        "who": "Root",
+        "line": "I WANTED TO ACKNOWLEDGE A WORTHY OPPONENT.",
+        "screen": true
+      },
+      {
+        "who": "Root",
+        "line": "AND SAY I'M LOOKING FORWARD TO THE NEXT TIME...",
+        "screen": true
       }
     ],
     "characters": [
@@ -118,13 +160,22 @@ export const moments = [
       "cover her tracks",
       "dorm room",
       "anonymous tip",
-      "the hacker"
+      "the hacker",
+      "你可以叫我 Root",
+      "旗鼓相当的对手",
+      "终端对话",
+      "轻装简行",
+      "我有很多名字",
+      "YOU CAN CALL ME ROOT",
+      "worthy opponent",
+      "I TRAVEL LIGHT",
+      "casualty of his own weakness"
     ],
     "related": [
       {
         "id": "s01e23-you-can-call-me-root",
-        "note": "十集后她才报上名字",
-        "back": "她第一次露脸之前，Finch 只知道有这么个黑客"
+        "note": "十集后她才当面现身，把这句话又说了一遍",
+        "back": "这句话她十集前就在 Finch 的终端上打过一次"
       }
     ],
     "episodeTitle": "Root Cause"
@@ -138,7 +189,7 @@ export const moments = [
     "verified": true,
     "priority": 1,
     "title": "你可以叫我 Root",
-    "description": "她花了整整一集扮成一个被追杀的心理医生。这是她第一次报上名字。",
+    "description": "她花了整整一集扮成一个被追杀的心理医生。这是她第一次当面现身。",
     "quote": [
       {
         "who": "Root",

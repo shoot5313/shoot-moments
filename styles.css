@@ -431,6 +431,16 @@ footer a {
   font-style: italic;
 }
 
+/* 打在屏幕上的字，不是说出口的。S1E13 结尾整段终端对话都是这样，
+   不区分的话看上去就像两个人在说话。 */
+.said-screen {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+  border-left: 2px solid var(--line);
+  padding-left: 0.7rem;
+}
+
 .who {
   line-height: 1.7;
   color: var(--pending);

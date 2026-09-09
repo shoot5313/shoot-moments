@@ -366,13 +366,17 @@ function renderDetail(moment) {
     quote.className = 'quote'
     // 两列网格：说话人一列、台词一列。列宽由最长的名字撑开，
     // 之前写死 4.5rem，PARAMEDIC 和 THE MACHINE 会压到台词上。
-    for (const { who, line } of moment.quote) {
+    for (const { who, line, screen } of moment.quote) {
       const label = document.createElement('span')
       label.className = who ? `who who-${voiceSlug(who)}` : 'who'
       label.textContent = who ?? ''
 
       const said = document.createElement('p')
-      said.className = who ? 'said' : 'said anon'
+      // screen = 打在屏幕上的字，不是说出口的。不标出来的话，
+      // S1E13 结尾那段终端对话看上去会像两个人在对话。
+      said.className = [who ? 'said' : 'said anon', screen && 'said-screen']
+        .filter(Boolean)
+        .join(' ')
       said.textContent = line
 
       quote.append(label, said)
