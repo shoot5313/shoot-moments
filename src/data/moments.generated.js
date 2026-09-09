@@ -4117,8 +4117,8 @@ export const moments = [
     "id": "s04e07-french-nanny",
     "season": 4,
     "episode": 7,
-    "start": "3:56",
-    "end": "5:52",
+    "start": "3:55",
+    "end": "5:54",
     "verified": true,
     "priority": 2,
     "title": "法国版玛丽·波平斯芭比",
@@ -4142,7 +4142,7 @@ export const moments = [
       },
       {
         "who": "Root",
-        "line": "Necessary, but exhausting. French Mary Poppins Barbie is the only me that's been any fun. I'm not sure how the parents would feel if they knew how many people I've killed."
+        "line": "Necessary, but exhausting. French Mary Poppins Barbie is the only me that's been any fun. Though I'm not sure how the parents would feel if they knew how many people I've killed."
       },
       {
         "who": "Root",
@@ -4188,8 +4188,8 @@ export const moments = [
     "id": "s04e07-earpiece-jealousy",
     "season": 4,
     "episode": 7,
-    "start": "13:44",
-    "end": "14:33",
+    "start": "13:47",
+    "end": "14:42",
     "verified": true,
     "priority": 1,
     "title": "醋酸根",
@@ -4197,7 +4197,7 @@ export const moments = [
     "quote": [
       {
         "who": "Root",
-        "line": "Ooh. He's hot. I mean, not hood-and-zipties-and-a-CIA-safe-house-with-10-hours-to-kill hot, but... I kind of get it."
+        "line": "Ooh. He's hot. I mean, not \"hood and zip ties in a CIA safe house with ten hours to kill\" hot, but... I kind of get it."
       },
       {
         "who": "Shaw",
@@ -4257,8 +4257,8 @@ export const moments = [
     "id": "s04e07-wheres-tomas",
     "season": 4,
     "episode": 7,
-    "start": "41:17",
-    "end": "42:07",
+    "start": "41:30",
+    "end": "42:24",
     "verified": true,
     "priority": 1,
     "title": "Tomas 呢？",
@@ -4420,8 +4420,8 @@ export const moments = [
     "id": "s04e09-back-of-the-truck",
     "season": 4,
     "episode": 9,
-    "start": "3:05",
-    "end": "3:26",
+    "start": "3:02",
+    "end": "3:24",
     "verified": true,
     "priority": 3,
     "title": "你卖出了最后一支高光",
@@ -4433,7 +4433,7 @@ export const moments = [
       },
       {
         "who": "Finch",
-        "line": "Indeed. Ms. Shaw, you and Ms. Groves have to avoid all cameras and get back here ASAP. Use the shadow map."
+        "line": "Indeed. Ms. Shaw, you and Ms. Groves have to avoid all cameras and get back here as soon as you can. Use the shadow map."
       },
       {
         "who": "Shaw",
@@ -4466,7 +4466,7 @@ export const moments = [
     "season": 4,
     "episode": 9,
     "start": "20:23",
-    "end": "20:52",
+    "end": "21:02",
     "verified": true,
     "priority": 2,
     "title": "Shaw 说了「请」",
@@ -4498,7 +4498,7 @@ export const moments = [
       },
       {
         "who": "Root",
-        "line": "Fine, but we'll use the shadow map to get there."
+        "line": "Fine. But we use the shadow map to get there."
       }
     ],
     "characters": [
@@ -5153,8 +5153,8 @@ export const moments = [
     "id": "s04e13-sixty-six-hours",
     "season": 4,
     "episode": 13,
-    "start": "0:30",
-    "end": "0:51",
+    "start": "0:29",
+    "end": "0:55",
     "verified": true,
     "priority": 1,
     "title": "救援迟到了六十六小时",
@@ -5162,11 +5162,11 @@ export const moments = [
     "quote": [
       {
         "who": "Root",
-        "line": "We're late. Sixty-six hours, our rescue's overdue. Sameen's gonna kill us."
+        "line": "We're late. 66 hours. A rescue's overdue. Sameen's gonna kill us."
       },
       {
         "who": "Finch",
-        "line": "She can't fault us for lack of effort. You've caused mayhem over five states. We only have one clue to show for it."
+        "line": "Well, she can't fault us for lack of effort. You've caused mayhem over five states. And we only have one clue to show for it."
       },
       {
         "who": "Root",
@@ -5208,8 +5208,8 @@ export const moments = [
     "id": "s04e13-heads-wont-roll-yet",
     "season": 4,
     "episode": 13,
-    "start": "16:18",
-    "end": "17:00",
+    "start": "16:23",
+    "end": "17:03",
     "verified": true,
     "priority": 2,
     "title": "先别急着让人掉脑袋",
@@ -5217,7 +5217,7 @@ export const moments = [
     "quote": [
       {
         "who": "Finch",
-        "line": "I'm so sorry, John and Samantha."
+        "line": "I'm so sorry, John, Samantha."
       },
       {
         "who": "Reese",
@@ -5225,11 +5225,11 @@ export const moments = [
       },
       {
         "who": "Root",
-        "line": "Why would the agent shoot Sameen in the head only to try to patch her up?"
+        "line": "Why would agents shoot Sameen in the head only to try to patch her up?"
       },
       {
         "who": "Finch",
-        "line": "Our enemy has strange methods. They found a use for her."
+        "line": "Our enemy has strange methods. It found a use for her."
       },
       {
         "who": "Finch",
@@ -5265,8 +5265,8 @@ export const moments = [
     "id": "s04e13-only-one-person",
     "season": 4,
     "episode": 13,
-    "start": "24:10",
-    "end": "24:46",
+    "start": "24:22",
+    "end": "24:59",
     "verified": true,
     "priority": 2,
     "title": "我现在只关心一个人",
@@ -5274,7 +5274,7 @@ export const moments = [
     "quote": [
       {
         "who": "Root",
-        "line": "Right now I only care about one person."
+        "line": "Right now, I only care about one person, Harold."
       },
       {
         "who": "Root",
@@ -5296,7 +5296,7 @@ export const moments = [
       },
       {
         "who": "Root",
-        "line": "I hope you've got a good physical therapist in town."
+        "line": "Hope you've got a good physical therapist in town."
       }
     ],
     "characters": [
@@ -5323,8 +5323,8 @@ export const moments = [
     "id": "s04e13-not-sameens-blood",
     "season": 4,
     "episode": 13,
-    "start": "35:04",
-    "end": "35:30",
+    "start": "35:31",
+    "end": "35:46",
     "verified": true,
     "priority": 1,
     "title": "不是 Sameen 的血",
@@ -5372,8 +5372,8 @@ export const moments = [
     "id": "s04e13-please-help-us",
     "season": 4,
     "episode": 13,
-    "start": "39:48",
-    "end": "40:50",
+    "start": "40:04",
+    "end": "41:00",
     "verified": true,
     "priority": 1,
     "title": "求你告诉我她是死是活",
@@ -5385,7 +5385,7 @@ export const moments = [
       },
       {
         "who": "Finch",
-        "line": "Miss Groves... our only lead brought us to the brink of disaster. You and John came perilously close to being discovered."
+        "line": "Ms. Groves, our only lead brought us to the brink of disaster. You and John came perilously close to being discovered."
       },
       {
         "who": "Finch",
@@ -5397,11 +5397,11 @@ export const moments = [
       },
       {
         "who": "Finch",
-        "line": "I wanna hold out hope. But hope is painful. We may never find her."
+        "line": "I want to hold out hope. But hope is painful. We may never find her."
       },
       {
         "who": "Root",
-        "line": "We need an answer. I need an answer if Sameen is alive or if she's dead. Please help us. Please."
+        "line": "We need an answer. I need an answer if Sameen is alive or if she's dead. Please, help us. Please."
       }
     ],
     "characters": [

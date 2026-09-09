@@ -12,7 +12,7 @@ dialogue from that scene.
 
 ## What's in it
 
-136 entries, 1,058 lines of dialogue, 148 minutes in total, spread across 51 episodes.
+139 entries, 1,091 lines of dialogue, 153 minutes in total, spread across 52 episodes.
 Every entry was checked line by line against the subtitles.
 
 Three threads you can look at separately: Root × Shaw, Root on her own, Shaw on her own.
