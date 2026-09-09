@@ -73,7 +73,7 @@ export const moments = [
     "end": "43:20",
     "verified": true,
     "priority": 2,
-    "title": "下次见",
+    "title": "旗鼓相当的对手",
     "description": "结尾这段对话全打在终端上，没有声音。",
     "quote": [
       {
@@ -169,7 +169,9 @@ export const moments = [
       "YOU CAN CALL ME ROOT",
       "worthy opponent",
       "I TRAVEL LIGHT",
-      "casualty of his own weakness"
+      "casualty of his own weakness",
+      "确认一个对手",
+      "认一个对手"
     ],
     "related": [
       {
